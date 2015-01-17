@@ -15,4 +15,4 @@ be a wreck in 90 minutes.
 
 **Update:** yeah, it was depressing.
 
-{% img http://upload.wikimedia.org/wikipedia/en/a/a5/Grave_of_the_Fireflies_Japanese_poster.jpg %}
+![Poster](http://upload.wikimedia.org/wikipedia/en/a/a5/Grave_of_the_Fireflies_Japanese_poster.jpg)

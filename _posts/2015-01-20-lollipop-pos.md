@@ -28,7 +28,7 @@ If I could just reduce the battery life to about 4 hours I'd have me a Thunderbo
 
 [Android Lollipop](http://en.wikipedia.org/wiki/Android_Lollipop) is, in it current
 state, a huge disappoint for me, and a growing source of frustration. I have fears
-that Google may consider the Nexus 4 obsolete, as they do this [Nexus 4 bug](https://code.google.com/p/android/issues/detail?id=41626).  But it's not obsolete
+that Google may consider the Nexus 4 obsolete, as they do this [Nexus 4 bug](https://code.google.com/p/android/issues/detail?id=41626#c68).  But it's not obsolete
 to me by a long shot. Overall it worked great, and should still be working great.
 I don't want to even contemplate a new phone, nor do I have the time, patience, 
 interest or energy to be reinstalling old images, non-stock ROMs, etc.

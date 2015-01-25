@@ -17,7 +17,7 @@ Many were major departures from the clean, boring, email-like lists that I liked
 and was looking for. A lot of the ones trying to mimic the old layout couldn't deliver
 on performance, or a mobile app, or were a bit spendy for my liking, etc. So for over a year I floated around, trying this and that, never feeling
 at all settled. Then I saw reference in a Hacker News comment thread about
-[Tiny Tiny RSS](http://tt-rss.org/) and decided to give it a try.  Great decision,
+[Tiny Tiny RSS](http://tt-rss.org/) (TTR) and decided to give it a try.  Great decision,
 and I've not once been left wanting for a better RSS reader.
 
 The main hurdle for most people is that you will have to host the thing yourself.

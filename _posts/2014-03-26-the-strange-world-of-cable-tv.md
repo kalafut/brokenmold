@@ -12,10 +12,9 @@ they ship you, manuals are wrong, support is hopeless), but the real shock was w
 I'm doing this for one reason: my parents will be staying with us for a little while, and they're addicted to cable/satellite TV. It they don't
 get it, we'll all be miserable.
 
-When we don't have visitors, we're relying on over-the-airs channel into a DVR with great, economical success. My thoughts going into this DVR arrangement was
-that it would be something of a temporary splurge for us, but I doubt that's going to be the case. All of the programming looks like complete
-shit. I get depressed when I think that either: a) people want to watch it,  b) people pay $100/month for a couple of channels they want and/or
-have no idea how well antennas work.
+When we don't have visitors, we're relying on over-the-air channels into a [DVR](http://www.channelmaster.com/Products_s/329.htm) with great, economical success. My thought going into this Comcast DVR arrangement was
+that it would be something of a temporary splurge for us, but I was wrong. All of the programming looks like complete
+shit. I get depressed when I think about: a) people want to watch it,  b) people pay $100/month for a couple of channels they want, c) most people don't know how well antennas work.
 
 I just don't get it. Our local PBS manages to find slots for some pretty interesting travel shows, but **The Travel Channel** fills it's
 vast schedule with shows about fast food and water parks. Just look at the [line-up](http://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Travel_Channel).

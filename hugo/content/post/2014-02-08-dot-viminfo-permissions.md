@@ -3,7 +3,7 @@ layout: post
 title: ".viminfo permissions"
 date: 2014-02-08T15:48:36-08:00
 comments: false
-categories: vim
+categories: [ vim]
 ---
 
 I wondered why my Vim command history wasn't being preserved between sessions.

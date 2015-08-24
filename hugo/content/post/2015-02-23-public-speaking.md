@@ -2,7 +2,7 @@
 layout: post
 title: "Public speaking"
 date: 2015-02-23
-categories: links
+categories: [ links]
 ---
 Useful, concise advice on public speaking, even for non-nerds.
 

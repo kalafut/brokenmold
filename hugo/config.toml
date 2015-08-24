@@ -1,3 +1,8 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://brokenmold.net/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Broken Mold"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"

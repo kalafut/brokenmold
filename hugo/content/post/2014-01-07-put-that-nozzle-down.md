@@ -3,7 +3,7 @@ layout: post
 title: "Put That Nozzle Down"
 date: 2014-01-07T20:10:39-08:00
 comments: false
-categories: Oregon
+categories: [ Oregon ]
 ---
 
 I've lived in Oregon for almost four years and love it. It's definitely a big improvement
@@ -43,6 +43,7 @@ It's a silly law that will probably never be repealed. People here like it. From
 >One thing drivers in Oregon never have to do is get out of the car on a rainy or cold day to put gas in their vehicle.
 >
 >"I think it's one of those things that people who come to Oregon have trouble believing it. It boils down to Oregon likes to be a little bit different sometimes,” Dodds said.
+
 
 
 

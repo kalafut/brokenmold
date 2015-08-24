@@ -3,7 +3,7 @@ layout: post
 title: "On Ansible and Fabric"
 date: 2014-01-20
 comments: false
-categories: ansible fabric deployment
+categories: [ ansible fabric deployment]
 ---
 
 It's very easy for me to become paralyzed by the pursuit of a "best practice". In some cases there

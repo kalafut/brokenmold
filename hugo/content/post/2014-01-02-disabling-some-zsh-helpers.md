@@ -3,7 +3,7 @@ layout: post
 title: "Disabling some zsh helpers"
 date: 2014-01-02T19:50:01-08:00
 comments: false
-categories: zsh cli
+categories: [ zsh cli]
 ---
 
 Two zsh features that are usually helpful but sometimes not: globbing, and autocorrect.

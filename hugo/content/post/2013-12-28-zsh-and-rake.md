@@ -3,7 +3,7 @@ layout: post
 title: "zsh and Rake"
 date: 2013-12-28T09:01:32-08:00
 comments: false
-categories: zsh rake octopress
+categories: [ zsh rake octopress]
 published: false
 
 ---

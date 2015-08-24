@@ -3,7 +3,7 @@ layout: post
 title: "The Strange World of Cable TV"
 date: 2014-03-26T23:45:38-07:00
 comments: false
-categories: 
+categories: [ ]
 ---
 
 I just installed and activated a Comcast DVR. This was an annoying and time consuming process (Comcast doesn't really know what equipment

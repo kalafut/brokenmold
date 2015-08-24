@@ -2,7 +2,7 @@
 layout: post
 title: "Passing slices to variadic functions"
 date: 2015-01-18
-categories: golang
+categories: [ golang]
 ---
 I knew about variadic functions, and the "..." syntax, but I'd assumed that was
 limited to the function declaration. When I tried to pass a slice of arguments

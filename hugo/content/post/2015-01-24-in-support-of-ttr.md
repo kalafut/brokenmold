@@ -2,7 +2,7 @@
 layout: post
 title: "RSS? You should probably try TTR"
 date: 2015-01-24
-categories:
+categories: []
 ---
 As a long-time consumer of RSS feeds, I was shocked along with many others at
 the fairly sudden termination of Google Reader. Though there wasn't anything

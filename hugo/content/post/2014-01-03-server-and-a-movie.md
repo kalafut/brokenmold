@@ -3,7 +3,7 @@ layout: post
 title: "Server and a Movie"
 date: 2014-01-03T21:57:49-08:00
 comments: false
-categories: movies
+categories: [ movies]
 ---
 
 After a couple hours of fun messing with [ansible](http://www.ansibleworks.com/) and [node](http://nodejs.org/) deployments, I

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introducing Telix"
-date: 2014-01-11 13:22:41 -0800
+date: 2014-01-11T13:22:41-08:00
 comments: false
 categories: Telix
 ---

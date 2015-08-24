@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Caveat when adding fragments via XML"
-date: 2014-04-20 14:07:44 -0700
+date: 2014-04-20T14:07:44-07:00
 comments: false
 categories: android fragments
 ---

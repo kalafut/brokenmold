@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Disabling some zsh helpers"
-date: 2014-01-02 19:50:01 -0800
+date: 2014-01-02T19:50:01-08:00
 comments: false
 categories: zsh cli
 ---

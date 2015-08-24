@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Exceptional First Post"
-date: 2013-12-31 09:01:32 -0800
+date: 2013-12-31T09:01:32-08:00
 comments: false
 categories: blogging
 published: true

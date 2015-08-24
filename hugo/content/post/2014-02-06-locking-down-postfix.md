@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Locking down Postfix"
-date: 2014-02-06 20:07:36 -0800
+date: 2014-02-06T20:07:36-08:00
 comments: false
 categories: postfix
 ---

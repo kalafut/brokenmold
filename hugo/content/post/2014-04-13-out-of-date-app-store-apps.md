@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Out of Date App Store Apps"
-date: 2014-04-13 07:41:49 -0700
+date: 2014-04-13T07:41:49-07:00
 comments: false
 categories: 
 published: false

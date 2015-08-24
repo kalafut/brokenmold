@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Server and a Movie"
-date: 2014-01-03 21:57:49 -0800
+date: 2014-01-03T21:57:49-08:00
 comments: false
 categories: movies
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Strange World of Cable TV"
-date: 2014-03-26 23:45:38 -0700
+date: 2014-03-26T23:45:38-07:00
 comments: false
 categories: 
 ---

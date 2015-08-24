@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "tmux + iterm2"
-date: 2014-01-07 21:34:40 -0800
+date: 2014-01-07T21:34:40-08:00
 comments: false
 categories: tools tmux iterm2
 ---

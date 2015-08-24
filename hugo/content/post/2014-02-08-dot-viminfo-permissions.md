@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ".viminfo permissions"
-date: 2014-02-08 15:48:36 -0800
+date: 2014-02-08T15:48:36-08:00
 comments: false
 categories: vim
 ---

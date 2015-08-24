@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Put That Nozzle Down"
-date: 2014-01-07 20:10:39 -0800
+date: 2014-01-07T20:10:39-08:00
 comments: false
 categories: Oregon
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bootstrap 3 Grid"
-date: 2014-02-02 19:12:49 -0800
+date: 2014-02-02T19:12:49-08:00
 comments: false
 categories: bootstrap links
 ---

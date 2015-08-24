@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Determine a unique selector with Firefox"
-date: 2014-01-01 10:09:26 -0800
+date: 2014-01-01T10:09:26-08:00
 comments: false
 categories: firefox splinter
 ---

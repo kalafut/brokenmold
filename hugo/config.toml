@@ -2,7 +2,11 @@ baseurl = "http://brokenmold.net/"
 languageCode = "en-us"
 title = "Broken Mold"
 pygmentsstyle = "friendly"
+
 [taxonomies]
   tag = "tags"
   category = "categories"
   series = "series"
+
+[params]
+  logo = "/favicon-310.jpg"

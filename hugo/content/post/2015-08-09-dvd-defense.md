@@ -22,7 +22,7 @@ But this is not a big deal. DVDs are just fine. The iconic Netflix envelopes are
 mocked as some vestige of a media age gone by, but I don't buy into that. There is convenience
 with streaming, but it's marginal. I can wait a day for a movie, and if there are multiple DVDs
 in the house then there will usually be no waiting ever. I'll even say there is an advantage
-to the DVD queue system: it reduces choice. Not of want to watch ever (something it increases
+to the DVD queue system: it reduces choice. Not of what to watch ever (something it increases
 about 10x for Netflix), but for right *now*. My viewing time is limited, and I just as soon know
 that movies A, B and C are options tonight and that's it. Surfing around a list of mediocre choices
 the Netflix thinks I might like in wholly unappealing.

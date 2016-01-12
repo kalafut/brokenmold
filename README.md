@@ -1,3 +1,1 @@
-# brokenmold
-
-Source for the [Brokenmold](http://brokenmold.net/) blog.
+Source for the [kalafut.net](http://kalafut.net/) blog.

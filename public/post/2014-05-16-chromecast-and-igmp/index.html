@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Chromecast and IGMP  &middot; Jim Kalafut</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta name="description" content="" />
+
+<meta name="keywords" content="">
+
+
+<meta property="og:title" content="Chromecast and IGMP  &middot; Jim Kalafut ">
+<meta property="og:site_name" content="Jim Kalafut"/>
+<meta property="og:url" content="http://kalafut.net/post/2014-05-16-chromecast-and-igmp/" />
+<meta property="og:locale" content="en-us">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:description" content=""/>
+<meta property="og:article:published_time" content="2014-05-16T23:01:54-07:00" />
+<meta property="og:article:modified_time" content="2014-05-16T23:01:54-07:00" />
+
+  
+
+  
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@jimkalafut" />
+<meta name="twitter:creator" content="@jimkalafut" />
+<meta name="twitter:title" content="Chromecast and IGMP" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:url" content="http://kalafut.net/post/2014-05-16-chromecast-and-igmp/" />
+<meta name="twitter:domain" content="http://kalafut.net">
+  
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "headline": "Chromecast and IGMP",
+    "author": {
+      "@type": "Person",
+      "name": "http://profiles.google.com/+?rel=author"
+    },
+    "datePublished": "2014-05-16",
+    "description": "",
+    "wordCount":  251 
+  }
+</script>
+
+
+
+<link rel="canonical" href="http://kalafut.net/post/2014-05-16-chromecast-and-igmp/" />
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://kalafut.net/touch-icon-144-precomposed.png">
+<link href="http://kalafut.net/favicon.png" rel="icon">
+
+<meta name="generator" content="Hugo 0.15" />
+
+  <!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<link href='https://fonts.googleapis.com/css?family=Merriweather:300%7CRaleway%7COpen+Sans' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://kalafut.net/css/font-awesome.min.css">
+<link rel="stylesheet" href="http://kalafut.net/css/style.css">
+<link rel="stylesheet" href="http://kalafut.net/css/highlight/default.css">
+
+  
+</head>
+<body>
+  <main id="main-wrapper" class="container main_wrapper has-sidebar">
+    <header id="main-header" class="container main_header">
+  <div class="container brand">
+  <div class="container title h1-like">
+  <a class="baselink" href="http://kalafut.net">
+  Jim Kalafut
+
+</a>
+
+</div>
+
+  
+<div class="container topline">
+  
+
+</div>
+
+
+</div>
+
+  <nav class="container nav primary no-print">
+  
+
+<a class="homelink" href="http://kalafut.net">Home</a>
+
+
+  
+<a href="http://kalafut.net/blogs" title="Blogs">Blogs</a>
+
+<a href="http://kalafut.net/post" title="Show list of posts">Posts</a>
+
+<a href="http://kalafut.net/tags" title="Show list of tags">Projects</a>
+
+<a href="http://kalafut.net/tags" title="Show list of tags">Tags</a>
+
+<a href="http://kalafut.net/about">About</a>
+
+
+</nav>
+
+<div class="container nav secondary no-print">
+  
+
+
+<a id="contact-link-github" class="contact_link" href="https://github.com/kalafut">
+  <span class="fa fa-github-square"></span><span>github</span></a>
+
+
+
+
+
+<a id="contact-link-linkedin" class="contact_link" href="https://www.linkedin.com/in/kalafut">
+  <span class="fa fa-linkedin-square"></span><span>linkedin</span></a>
+
+
+
+
+
+
+
+<a id="contact-link-twitter" class="contact_link" href="https://twitter.com/jimkalafut">
+  <span class="fa fa-twitter-square"></span><span>twitter</span></a>
+
+
+
+
+
+
+
+</div>
+
+
+  
+
+</header>
+
+
+<article id="main-content" class="container main_content single">
+  <header class="container hat">
+  <h1>Chromecast and IGMP
+</h1>
+
+  <div class="metas">
+<time datetime="2014-05-16">16 May, 2014</time>
+
+
+  
+  &middot; Read in about 2 min
+  &middot; (251 Words)
+  <br>
+  
+
+
+</div>
+
+</header>
+
+  <div class="container content">
+  <p>I bought a Chromecast shortly after it debut and enjoyed months of great service. Lately I&rsquo;ve been
+suffering through months of crappy service, and have spent a lot of time troubleshooting the thing.</p>
+
+<p>The main symptom: the Chromecast icon would drop off of apps shortly after connecting to them. This
+was only occuring when I had the device plugged into the TV for some reason.</p>
+
+<p>There are a <em>lot</em> of Chromecast support forums and I tried a ton of stuff the resulting in no change,
+or a moment of hope followed by disappointment. Tonight I was reading an ASUS forum and just started
+messing around with router settings on my RT-N56U and found that turning off the 5Ghz radio and turning
+on &ldquo;IGMP Snooping&rdquo; for 2.4GHz has dramatically improved the stability of the connection.</p>
+
+<p>I have no idea about:</p>
+
+<ul>
+<li>Whether this will last</li>
+<li>What IGMP really is</li>
+<li>Whether I can turn 5GHZ back on (but I don&rsquo;t use it anyway and have spent enough time on this)</li>
+</ul>
+
+<p>But things are performing better than they have in a long time. I have updated my router firmware
+since getting the Chromecast, so it&rsquo;s very plausible that one of those updates is the root cause of
+my struggles. In any case, I&rsquo;m happy tonight.</p>
+
+<p><strong>Update</strong></p>
+
+<p>Searches about IGMP and Chromecast showed a lot advice telling people to try turning the option
+<em>Off</em>.  I guess the only thing that I&rsquo;m sure of is that it&rsquo;s worth twiddling this settings as part
+your Chromecast troubleshooting process.</p>
+
+</div>
+
+
+  <footer class="container">
+  <div class="container navigation no-print">
+  <h2>Navigation</h2>
+  
+  
+
+    
+    <a class="prev" href="http://kalafut.net/post/2014-04-20-caveat-when-adding-fragments-via-xml/" title="Caveat when adding fragments via XML">
+      Previous
+    </a>
+    
+
+    
+    <a class="next" href="http://kalafut.net/post/2014-10-09-hello-konigspress/" title="Hello Königspress">
+      Next
+    </a>
+    
+
+  
+
+
+</div>
+
+  
+</footer>
+
+</article>
+      <footer id="main-footer" class="container main_footer">
+  
+
+  <div class="container nav foot no-print">
+  
+
+  <a class="toplink" href="#">back to top</a>
+
+</div>
+
+  <div class="container credits">
+  
+<div class="container footline">
+  
+
+</div>
+
+
+  
+
+</div>
+
+</footer>
+
+    </main>
+    
+
+
+<script src="http://kalafut.net/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'Your Google Analytics tracking code', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+    
+  </body>
+</html>
+

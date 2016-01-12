@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zsh Rake Octopress on Broken Mold</title>
+    <link>http://brokenmold.net/categories/zsh-rake-octopress/</link>
+    <description>Recent content in Zsh Rake Octopress on Broken Mold</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Jan 2014 09:01:32 -0800</lastBuildDate>
+    <atom:link href="http://brokenmold.net/categories/zsh-rake-octopress/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>zsh and Rake</title>
+      <link>http://brokenmold.net/post/2013-12-28-zsh-and-rake/</link>
+      <pubDate>Sat, 04 Jan 2014 09:01:32 -0800</pubDate>
+      
+      <guid>http://brokenmold.net/post/2013-12-28-zsh-and-rake/</guid>
+      <description>&lt;p&gt;Octopress offers a ton of useful rake tasks, but they&amp;rsquo;re somewhat hobbled
+if using &lt;a href=&#34;http://www.zsh.org/&#34;&gt;zsh&lt;/a&gt; due to globbing. There is an &lt;a href=&#34;https://github.com/imathis/octopress/issues/117&#34;&gt;easy fix&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;highlight&#34; style=&#34;background: #f0f0f0&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span style=&#34;color: #007020&#34;&gt;alias &lt;/span&gt;&lt;span style=&#34;color: #bb60d5&#34;&gt;rake&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color: #4070a0&#34;&gt;&amp;quot;noglob rake&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

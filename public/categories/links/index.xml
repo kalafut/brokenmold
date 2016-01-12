@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links on Jim Kalafut</title>
+    <link>http://kalafut.net/categories/links/</link>
+    <description>Recent content in Links on Jim Kalafut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://kalafut.net/categories/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Public speaking</title>
+      <link>http://kalafut.net/post/2015-02-23-public-speaking/</link>
+      <pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://kalafut.net/post/2015-02-23-public-speaking/</guid>
+      <description>&lt;p&gt;Useful, concise advice on public speaking, even for non-nerds.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://dave.cheney.net/2015/02/17/practical-public-speaking-for-nerds&#34;&gt;Practical public speaking for Nerds&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

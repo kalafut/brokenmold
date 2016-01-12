@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jim Kalafut</title>
+    <link>http://kalafut.net/categories/</link>
+    <description>Recent content on Jim Kalafut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2014 21:34:40 -0800</lastBuildDate>
+    <atom:link href="http://kalafut.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>tmux &#43; iterm2</title>
+      <link>http://kalafut.net/post/2014-01-07-tmux-plus-iterm2/</link>
+      <pubDate>Tue, 07 Jan 2014 21:34:40 -0800</pubDate>
+      
+      <guid>http://kalafut.net/post/2014-01-07-tmux-plus-iterm2/</guid>
+      <description>&lt;p&gt;Both &lt;a href=&#34;http://tmux.sourceforge.net/&#34;&gt;tmux&lt;/a&gt; and &lt;a href=&#34;http://www.iterm2.com/&#34;&gt;iterm2 &lt;/a&gt; are great, but the default interaction will have iterm
+scrolling your entire tmux window off the screen which is probably not what you
+want. To use iterm&amp;rsquo;s scrolling within tmux, visit &lt;code&gt;Preferences -&amp;gt; Profiles -&amp;gt; Terminal&lt;/code&gt; and check:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Save lines to scrollback when an app status bar is present&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Thanks to &lt;a href=&#34;http://dan.carley.co/blog/2013/01/11/tmux-scrollback-with-iterm2/&#34;&gt;Dan Carley&lt;/a&gt; for this tip.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

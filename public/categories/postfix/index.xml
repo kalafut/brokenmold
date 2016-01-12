@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Postfix on Jim Kalafut</title>
+    <link>http://kalafut.net/categories/postfix/</link>
+    <description>Recent content in Postfix on Jim Kalafut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Feb 2014 20:07:36 -0800</lastBuildDate>
+    <atom:link href="http://kalafut.net/categories/postfix/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Locking down Postfix</title>
+      <link>http://kalafut.net/post/2014-02-06-locking-down-postfix/</link>
+      <pubDate>Thu, 06 Feb 2014 20:07:36 -0800</pubDate>
+      
+      <guid>http://kalafut.net/post/2014-02-06-locking-down-postfix/</guid>
+      <description>&lt;p&gt;I run &lt;a href=&#34;http://www.postfix.org/&#34;&gt;Postfix&lt;/a&gt; on my VPS&amp;rsquo;s exclusively to send mail. They&amp;rsquo;re configured to route mail to
+&lt;a href=&#34;http://www.mailgun.com/&#34;&gt;Mailgun&lt;/a&gt;, and I&amp;rsquo;ve made sure that they&amp;rsquo;re not an open relay. I also
+receive a daily logwatch email and it doesn&amp;rsquo;t help to have a bunch of this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Feb  4 18:31:47 alpha postfix/smtpd[14138]: connect from unknown[63.115.40.56]
+Feb  4 18:31:47 alpha postfix/smtpd[14138]: NOQUEUE: reject: RCPT from unknown[63.115.40.56]: 554 5.7.1 &amp;lt;therichsheickc@
+yahoo.com&amp;gt;: Relay access denied; from=&amp;lt;test@live.com&amp;gt; to=&amp;lt;therichsheickc@yahoo.com&amp;gt; proto=ESMTP helo=&amp;lt;[192.168.2.33]&amp;gt;
+Feb  4 18:46:31 alpha postfix/smtpd[14153]: connect from client002.c039228.customers.cinergycom.net[69.196.196.138]
+Feb  4 18:46:31 alpha postfix/smtpd[14153]: NOQUEUE: reject: RCPT from client002.c039228.customers.cinergycom.net[69.196
+.196.138]: 554 5.7.1 &amp;lt;therichsheickc@yahoo.com&amp;gt;: Relay access denied; from=&amp;lt;test@live.com&amp;gt; to=&amp;lt;therichsheickc@yahoo.com&amp;gt;
+ proto=ESMTP helo=&amp;lt;[192.168.2.33]&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I had a couple of options. This first is to modify &lt;a href=&#34;http://www.postfix.org/master.5.html&#34;&gt;master.cf&lt;/a&gt; to deny SMTP access from &amp;ldquo;inet&amp;rdquo;. I tried it and it did work, but I didn&amp;rsquo;t really care for the solution since it didn&amp;rsquo;t gel that well with my Ansible configuration for the host. The other option was to just lock down port 25, period. I was down the road of re-re-re-acquainting myself with &lt;a href=&#34;http://en.wikipedia.org/wiki/Iptables&#34;&gt;iptables&lt;/a&gt;&amp;ndash;something I do seldom and immediate forget&amp;ndash;and then I came across
+ &lt;a href=&#34;https://help.ubuntu.com/community/UFW&#34;&gt;ufw&lt;/a&gt;. The cryptic iptables syntax is replaced with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;ufw allow http/tcp
+ufw enable
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;(by default everything is rejected)&lt;/p&gt;
+
+&lt;p&gt;This worked just fine and I was able to easily whitelist a few key ports in my base Ansible file. We&amp;rsquo;ll see tomorrow whether the logwatch email thins out.&lt;/p&gt;
+
+&lt;p&gt;** Interesting note: testing this stuff from my laptop didn&amp;rsquo;t work. By spinning up another VPS and successfully connect to port 25 (so I could then verify that I couldn&amp;rsquo;t connect after the changes), I confirmed that it was my ISP (Comcast). I&amp;rsquo;ve now learned that blocking port 25 except to the ISP&amp;rsquo;s mail server &lt;a href=&#34;http://www.postcastserver.com/help/Port_25_Blocking.aspx&#34;&gt;is a thing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

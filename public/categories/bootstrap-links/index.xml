@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bootstrap Links on Jim Kalafut</title>
+    <link>http://kalafut.net/categories/bootstrap-links/</link>
+    <description>Recent content in Bootstrap Links on Jim Kalafut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2014 19:12:49 -0800</lastBuildDate>
+    <atom:link href="http://kalafut.net/categories/bootstrap-links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bootstrap 3 Grid</title>
+      <link>http://kalafut.net/post/2014-02-02-bootstrap-3-grid/</link>
+      <pubDate>Sun, 02 Feb 2014 19:12:49 -0800</pubDate>
+      
+      <guid>http://kalafut.net/post/2014-02-02-bootstrap-3-grid/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;ve used Bootstrap 2.x and need a quick introduction to Bootstrap 3&amp;rsquo;s new
+&amp;ldquo;mobile first&amp;rdquo; grid system, your best read is &lt;a href=&#34;http://www.helloerik.com/bootstrap-3-grid-introduction&#34;&gt;Erik Flower&amp;rsquo;s introduction&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

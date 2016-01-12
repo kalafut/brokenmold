@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movies on Jim Kalafut</title>
+    <link>http://kalafut.net/categories/movies/</link>
+    <description>Recent content in Movies on Jim Kalafut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jan 2014 21:57:49 -0800</lastBuildDate>
+    <atom:link href="http://kalafut.net/categories/movies/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Server and a Movie</title>
+      <link>http://kalafut.net/post/2014-01-03-server-and-a-movie/</link>
+      <pubDate>Fri, 03 Jan 2014 21:57:49 -0800</pubDate>
+      
+      <guid>http://kalafut.net/post/2014-01-03-server-and-a-movie/</guid>
+      <description>&lt;p&gt;After a couple hours of fun messing with &lt;a href=&#34;http://www.ansibleworks.com/&#34;&gt;ansible&lt;/a&gt; and &lt;a href=&#34;http://nodejs.org/&#34;&gt;node&lt;/a&gt; deployments, I
+think the rest of Friday night would be better spent watching
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Grave_of_the_Fireflies&#34;&gt;Grave of the Fireflies&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;According to &lt;a href=&#34;http://www.imdb.com/title/tt0095327/reviews?ref_=tt_ov_rt&#34;&gt;reviews&lt;/a&gt;, I should
+be a wreck in 90 minutes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; yeah, it was depressing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://upload.wikimedia.org/wikipedia/en/a/a5/Grave_of_the_Fireflies_Japanese_poster.jpg&#34; alt=&#34;Poster&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

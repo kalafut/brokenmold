@@ -32,7 +32,7 @@ look like:
 And for what?? So after minutes of waiting, some guy can hand me a receipt and close the fuel door? Almost every person I know has
 pumped gas since they were 16 and never needed much assistance.
 
-It's a silly law that will probably never be repealed. People here like it. From [an interview with the head of Oregon AAA](http://www.ktvb.com/news/i-wonder/I-Wonder-Why-cant-you-pump-your-own-gas-in-Oregon-82256587.html):
+It's a silly law that will probably never be repealed. People here like it. From [an interview with the head of Oregon AAA](http://www.ktvb.com/story/news/local/i-wonder/2014/06/27/11504621/):
 
 >“Our gas is no more expensive than Washington or California."
 >

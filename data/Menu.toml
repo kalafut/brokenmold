@@ -15,7 +15,7 @@
 [projects]
     Name = "Projects"
     Title = "Show list of tags"
-    URL = "/tags"
+    URL = "/projects"
 
 [blog]
     Name = "Blogs"

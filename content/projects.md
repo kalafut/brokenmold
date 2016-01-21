@@ -25,3 +25,5 @@ finiki
 
 [**is**](https://github.com/tylerb/is/issues/2) --- Added ability to redirect test output to a specified [io.Writer](https://golang.org/pkg/io/#Writer).
 
+[**carmen**](https://github.com/jim/carmen/commits?author=kalafut) --- Added functionality to exclude states/countries from this Ruby geography library.
+

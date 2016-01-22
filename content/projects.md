@@ -4,11 +4,14 @@ draft: false
 title: "Projects"
 ---
 
-Since [DOS 2.11](https://en.wikipedia.org/wiki/DOS) I've always been working on something. My `~/dev` folder has hundreds of children. Sometimes the work exists elsewhere, such as some small contribution to a project on Github that I'll probably forget about.(And Github is surprisingly unhelpful at helping you track older contributions.) But I'd like to not forget about these endevors, hence this page.
+Since [DOS 2.11](https://en.wikipedia.org/wiki/DOS) I've always been working on something. Side-projects are fun and my way to try out a lot of technologies. Lately I seem to be writing a lot of **Go** and **Javascript**. My `~/dev` folder has hundreds of children. Sometimes the work exists elsewhere, such as some small contribution to a project on Github that I'll probably forget about.(And Github is surprisingly unhelpful at helping you track older contributions.) But I'd like to not forget about these endevors, hence this page.
 
 #### Active
-clerk  
+[clerk](https://github.com/kalafut/clerk)
+: I've used a lot of personal finance tools over the years and they've all helped and annoyed me. Clerk is my attempt to do better.
+
 finiki  
+: A Wiki
 
 #### Planned
 #### Complete

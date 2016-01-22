@@ -23,7 +23,7 @@ finiki
 : Repackaged [TaskJuggler](http://www.taskjuggler.org/) syntax highlighting for easier installation by [Vundle](https://github.com/VundleVim/Vundle.vim) and the like.
 
 [**WordyLinks**](http://wordylinks.kalafut.net)
-: A tiny bookmarking site that was my first non-trivial **Go** program. It has been running for a couple of year with light usage.
+: A tiny bookmarking site that was my first non-trivial **Go** program. It has been running for a couple of years with light usage.
 
 ## Contributions
 

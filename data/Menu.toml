@@ -21,3 +21,8 @@
     Name = "Blogs"
     Title = "Blogs"
     URL = "/blogs"
+
+[Kit]
+    Name = "Kit"
+    Title = "Kit"
+    URL = "/kit"

@@ -4,8 +4,6 @@
   {{ with .Params.author }}
     &middot; {{ $.Site.Data.Strings.byauthor }} {{ . }}
   {{ end }}
-  &middot; {{ .Site.Data.Strings.metaReadin }} {{ .ReadingTime }} {{ .Site.Data.Strings.metaReadinMinutes }}
-  &middot; ({{ .WordCount }} {{ .Site.Data.Strings.words }})
   <br>
   {{ partial "modules/page/tags" . }}
 {{ end }}

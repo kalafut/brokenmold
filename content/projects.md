@@ -31,6 +31,9 @@ fff
 **fdoc**
 : Android app for easily browsing [Fossil](http://fossil-scm.org) documentation, back when I was [evaluating that SCM tool]({{< relref "2015-01-29-fossil-1.md" >}}).
 
+**Phonetics** (pic?)
+**Table settings** (pic?)
+
 ## Contributions
 
 [**glitch**](https://github.com/levicook/glitch/pull/3)

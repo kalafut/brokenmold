@@ -1,4 +1,4 @@
-baseurl = "http://kalafut.net"
+baseurl = "https://kalafut.net"
 languageCode = "en-us"
 title = "Jim Kalafut"
 pygmentsstyle = "friendly"

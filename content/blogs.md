@@ -1,12 +1,31 @@
-+++
-date = "2015-08-23T19:14:57-07:00"
-draft = false
-title = "Blogs"
+---
+date: "2015-08-23T19:14:57-07:00"
+draft: false
+title: "Blogs"
+---
 
-+++
+Blogs are great, regardless of whether anyone reads them. They're the only diary I've every even
+semi-regularly kept. I've always hosted my own blogs and feel strongly that entrusting your biography
+only to Twitter and/or Facebook is a risky idea.
 
-## A headline
+A number of blogs have accumulated over the years. They're usually associated with some phase of my (our)
+life, and I like the idea of putting them in read-only/archive mode when appropriate.
 
 
-[NZ Life](http://nz.kalafut.net)
+[kalafut.net](http://kalafut.net) (formerly *Brokenmold*)
+: My eponymous site, including a blog of opinions and tech odds and ends (2013--).
+
+<br>
+[Oregon Life](http://blog.kalafut.net)
+: Our current, occasionally-updated family blog (2010--).
+
+<br>
+[Peoria Dispatch](http://pd.kalafut.net)<sup>*</sup>
+: Life after New Zealand (2008-2010).
+
+<br>
+[NZ Life](http://nz.kalafut.net)<sup>*</sup>
+: Chronicles of our New Zealand adventure (2005--2007).
+
+\* Archive/read-only mode
 

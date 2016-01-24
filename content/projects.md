@@ -13,6 +13,9 @@ Since [DOS 2.11](https://en.wikipedia.org/wiki/DOS) I've always been working on 
 finiki  
 : A Wiki
 
+fff
+: *Fast File Finder*. As ag is to grep, fff is to find. The goal is a file finder that just does the right thing. 
+
 #### Planned
 #### Complete
 

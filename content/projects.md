@@ -34,8 +34,9 @@ fff
 **fdoc**
 : Android app for easily browsing [Fossil](http://fossil-scm.org) documentation, back when I was [evaluating that SCM tool]({{< relref "2015-01-29-fossil-1.md" >}}).
 
-[Phonetics][]
+<a href="/phonetics.png" data-lightbox="image-1" data-title="Phonetics">Phonetics</a>
 : Simple phonetics app for Android. Type a letter then see and hear (in mine or my wife's voice!) the corresponding NATO phonetic.
+
 
 ## Contributions
 

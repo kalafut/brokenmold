@@ -11,7 +11,7 @@ title: "Kit"
 - [Arq](https://www.arqbackup.com/) backup to:
     - Synology NAS
     - Google Nearline
-- Digital Ocean VPS's running Ubuntu
+- Digital Ocean VPS's running Ubuntu, maintained with Ansible and Fabric. 
 - Self-hosted sites using:
     - [Hugo](http://gohugo.io/)
     - Wordpress

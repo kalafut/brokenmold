@@ -18,7 +18,6 @@ Since [DOS 2.11][] I've always been working on something. Side-projects are fun 
 
 
 **fff**
-: *Fast File Finder*. As ag is to grep, fff is to find. The goal is a file finder that just does the right thing. 
 
 <br>
 ## Completed
@@ -53,6 +52,9 @@ Since [DOS 2.11][] I've always been working on something. Side-projects are fun 
 
 **[carmen][]**
 : Added functionality to exclude states/countries from this Ruby geography library.
+
+[**Two Scoops of Django**](http://www.amazon.com/gp/product/0981467342)
+: Contributed to final review of the book.
 
 **[autolink.vim][]**
 : Replaced the defunct Blekko API with DuckDuckGo.

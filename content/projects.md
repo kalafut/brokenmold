@@ -19,7 +19,7 @@ Since [DOS 2.11][] I've always been working on something. Side-projects are fun 
 
 **fff**
 
-<br>
+<hr>
 ## Completed
 
 **[imohash][]**
@@ -29,7 +29,7 @@ Since [DOS 2.11][] I've always been working on something. Side-projects are fun 
 : Repackaged [TaskJuggler](http://www.taskjuggler.org/) syntax highlighting for easier installation by [Vundle](https://github.com/VundleVim/Vundle.vim) and the like.
 
 **[WordyLinks][]**
-: A small bookmarking site that was my first non-trivial **Go** program. It has been running for a couple of years with light usage (including by me at least once a week).
+: Sort of a bookmarking site, this was my first non-trivial **Go** program. It has been running for a couple of years with light usage (including by me at least once a week).
 
 **fdoc**
 : Android app for easily browsing [Fossil](http://fossil-scm.org) documentation, back when I was [evaluating that SCM tool]({{< relref "2015-01-29-fossil-1.md" >}}).
@@ -38,26 +38,26 @@ Since [DOS 2.11][] I've always been working on something. Side-projects are fun 
 : Simple phonetics app for Android. Type a letter then see and hear (in mine or my wife's voice!) the corresponding NATO phonetic.
 
 
-<br>
+<hr>
 ## Contributions
 
 **[glitch][]**
-: Fixed multiple build issue on OSX.
-
-**[vimoutliner][]**
-: Made help documentation UTF-8 compatible. This was pretty silly, actually. My original request was to just change "régime" back to "regime" to make things work, but that was rejected...
+: Fixed issue where multiple builds occurred on OSX.
 
 **[is][]**
 : Added ability to redirect test output to a specified [io.Writer](https://golang.org/pkg/io/#Writer).
 
+**[vimoutliner][]**
+: Made help documentation UTF-8 compatible. This was pretty silly, actually. My original request was to just change "régime" back to "regime" to make things work, but that was rejected...
+
 **[carmen][]**
 : Added functionality to exclude states/countries from this Ruby geography library.
 
-[**Two Scoops of Django**](http://www.amazon.com/gp/product/0981467342)
-: Contributed to final review of the book.
-
 **[autolink.vim][]**
 : Replaced the defunct Blekko API with DuckDuckGo.
+
+[**Two Scoops of Django**](http://www.amazon.com/gp/product/0981467342)
+: Contributed to final review of the book.
 
 
 

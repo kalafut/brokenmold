@@ -1,3 +1,5 @@
 #!/bin/sh
 hugo -t hyde-y
-s3cmd sync --recursive public/ s3://kalafut.net/
+cd public
+aws s3 sync  . s3://kalafut.net
+cd ..

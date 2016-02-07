@@ -2,3 +2,4 @@ _site
 .sass-cache
 hugo/public
 public/*
+themes/hyde-y/node_modules

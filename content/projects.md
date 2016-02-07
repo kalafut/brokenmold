@@ -37,6 +37,9 @@ Since [DOS 2.11][] I've always been working on something. Side-projects are fun 
 **<a href="/phonetics.png" data-lightbox="image-1" data-title="Phonetics">Phonetics</a>**
 : Simple phonetics app for Android. Type a letter then see and hear (in mine or my wife's voice!) the corresponding NATO phonetic.
 
+**[Critigram][]**
+: Display your [Criticker](http://criticker.com) ratings histogramically. Also, a test project for Coffeescript and Google Charts.
+
 
 <hr>
 ## Contributions
@@ -74,3 +77,4 @@ Since [DOS 2.11][] I've always been working on something. Side-projects are fun 
 [is]: https://github.com/tylerb/is/issues/2
 [carmen]: https://github.com/jim/carmen/commits?author=kalafut
 [autolink.vim]: https://github.com/sampsyo/autolink.vim/pull/2
+[Critigram]: http://kalafut.github.io/critigram/

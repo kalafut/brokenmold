@@ -4,7 +4,7 @@ draft: false
 title: "Projects"
 ---
 
-Since [DOS 2.11][] I've always been working on something. Side-projects are fun and my way to try out a lot of technologies. Lately I seem to be writing a lot of **Go** and **Javascript**. My `~/dev` folder has hundreds of children. Sometimes the work exists elsewhere, such as some small contribution to a project on Github that I'll probably forget about.(And Github is surprisingly unhelpful at helping you track older contributions.) But I'd like to not forget about these endevors, hence this page.
+Since [DOS 2.11][] I've always been working on something. Side projects are fun and my way to try out a lot of technologies. Lately I seem to be writing a lot of **Go** and **Javascript**. My `~/dev` folder has hundreds of children. Sometimes the work exists elsewhere, such as some small contribution to a project on Github that I'll probably forget about. (And Github is surprisingly unhelpful at helping you track older contributions.) But I'd like to not forget about these endevors, hence this page.
 
 ## Active
 **[kalafut.net][]**
@@ -43,6 +43,8 @@ Since [DOS 2.11][] I've always been working on something. Side-projects are fun 
 
 <hr>
 ## Contributions
+**[gb][]**
+: Show vendor plugin help when no command is given.
 
 **[glitch][]**
 : Fixed issue where multiple builds occurred on OSX.
@@ -78,3 +80,4 @@ Since [DOS 2.11][] I've always been working on something. Side-projects are fun 
 [carmen]: https://github.com/jim/carmen/commits?author=kalafut
 [autolink.vim]: https://github.com/sampsyo/autolink.vim/pull/2
 [Critigram]: http://kalafut.github.io/critigram/
+[gb]: https://github.com/constabulary/gb/pull/449

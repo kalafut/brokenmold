@@ -51,3 +51,5 @@ theme = "hyde-y"
   extensions = []
   extensionmask = []
 
+[author]
+  email = "jim@kalafut.net"

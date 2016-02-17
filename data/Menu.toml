@@ -1,8 +1,8 @@
-[z]
-    Name = "About"
-    URL = "/about"
-
-#[posts]
+#[z]
+#    Name = "About"
+#    URL = "/about"
+#
+##[posts]
 #    Name = "Posts"
 #    Title = "Show list of posts"
 #    URL = "/post"
@@ -12,7 +12,7 @@
 #    Title = "Show list of tags"
 #    URL = "/tags"
 
-[projects]
+[a_projects]
     Name = "Projects"
     Title = "Show list of tags"
     URL = "/projects"
@@ -22,7 +22,7 @@
     Title = "Blogs"
     URL = "/blogs"
 
-[Kit]
+[c_Kit]
     Name = "Kit"
     Title = "Kit"
     URL = "/kit"

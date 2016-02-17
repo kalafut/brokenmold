@@ -21,7 +21,7 @@ life, and I like the idea of putting them in read-only/archive mode when appropr
 
 <br>
 **[Peoria Dispatch](http://pd.kalafut.net)***
-: Life after New Zealand (2008-2010).
+: Life after New Zealand (2008--2010).
 
 <br>
 **[NZ Life](http://nz.kalafut.net)***

@@ -4,11 +4,11 @@ draft: false
 title: "Projects"
 ---
 
-Since [DOS 2.11][] I've always been working on something. Side projects are fun and my way to try out a lot of technologies. Lately I seem to be writing a lot of **Go** and **Javascript**. My `~/dev` folder has hundreds of children. Sometimes the work exists elsewhere, such as some small contribution to a project on Github that I'll probably forget about. (And Github is surprisingly unhelpful at helping you track older contributions.) But I'd like to not forget about these endevors, hence this page.
+Since [DOS 2.11][] I've always been working on something. Side projects are fun and my way to try out a lot of technologies. Lately I seem to be writing a lot of **Go** and **Javascript**. My `~/dev` folder has hundreds of children. Sometimes the work exists elsewhere, such as some small contribution to a project on Github that I'll probably forget about. (And Github is surprisingly unhelpful at helping you track older contributions.) But I'd like to not forget about these endeavors, hence this page.
 
 ## Active
 **choppy**
-: (*Planned*) Chess opening trainer as an intro project to learn [Elm](http://elm-lang.org).
+: (*Planned*) Chess opening trainer as an intro project to learn [Elm](http://elm-lang.org) and/or try out [GopherJS](http://www.gopherjs.org/). It will be transpilerific.
 
 **[kalafut.net][]**
 : This site is of course a constant work-in-progress. It has evolved from a heavy Wordpress installation to a static site. Various blogging platforms, themes and hosting setups have been tried. Oh yeah, and there's the writing... :)
@@ -17,11 +17,11 @@ Since [DOS 2.11][] I've always been working on something. Side projects are fun 
 : I've used a lot of personal finance tools over the years and they've all helped and annoyed me. Clerk is my attempt to do better.
 
 **[finiki][]**
-: A Wiki
+: A Wiki. I've always liked wikis and their personal wikis are very helpful. But none of them are *quite* right, so I'm starting my own.
 
 
 **fff**
-: Fast File Finder
+: Fast File Finder. For now this is just a Go CLI to do the most common things I do with `find`, but without all the flags and arguments. As ag is to grep, fff is to find.
 
 <hr>
 ## Completed
@@ -44,6 +44,9 @@ Since [DOS 2.11][] I've always been working on something. Side projects are fun 
 **[Critigram][]**
 : Display your [Criticker](http://criticker.com) ratings histogramically. Also, a test project for Coffeescript and Google Charts.
 
+**FreeLadder**
+: PHP/MySQL web app to run the company's table tennis ladder. Nice responsive design and plenty of stats tracking included.
+
 
 <hr>
 ## Contributions
@@ -51,7 +54,7 @@ Since [DOS 2.11][] I've always been working on something. Side projects are fun 
 : Show vendor plugin help when no command is given.
 
 **[glitch][]**
-: Fixed issue where multiple builds occurred on OSX.
+: Fixed issue where multiple builds occurred on OS X.
 
 **[is][]**
 : Added ability to redirect test output to a specified [io.Writer](https://golang.org/pkg/io/#Writer).

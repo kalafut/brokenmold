@@ -1,5 +1,5 @@
 #!/bin/sh
 hugo -t hyde-y
 cd public
-aws s3 sync  . s3://kalafut.net
+aws s3 sync --delete  . s3://kalafut.net
 cd ..

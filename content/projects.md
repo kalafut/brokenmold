@@ -8,7 +8,7 @@ Since [DOS 2.11][] I've always been working on something. Side projects are fun 
 
 ## Active
 **choppy**
-: (*Planned*) Chess opening trainer as an intro project to learn [Elm](http://elm-lang.org) and/or try out [GopherJS](http://www.gopherjs.org/). It will be transpilerific.
+: (*Planned*) Chess opening trainer as an intro project to learn [Elm](http://elm-lang.org) and/or [GopherJS](http://www.gopherjs.org/). It will be transpilerific.
 
 **[kalafut.net][]**
 : This site is of course a constant work-in-progress. It has evolved from a heavy Wordpress installation to a static site. Various blogging platforms, themes and hosting setups have been tried. Oh yeah, and there's the writing... :)
@@ -47,6 +47,9 @@ Since [DOS 2.11][] I've always been working on something. Side projects are fun 
 **FreeLadder**
 : PHP/MySQL web app to run the company's table tennis ladder. Nice responsive design and plenty of stats tracking included.
 
+**[Fruitbot][]**
+: My submission to Scribd's [Fruitbot](http://fruitbots.org/) programming challenge, written in Javascript. I used Minimax with alpha-beta pruning like hundreds of others, but some "secret sauce" during move generation has kept me in the [top 15](http://fruitbots.herokuapp.com/bots).
+
 
 <hr>
 ## Contributions
@@ -64,6 +67,9 @@ Since [DOS 2.11][] I've always been working on something. Side projects are fun 
 
 **[carmen][]**
 : Added functionality to exclude states/countries from this Ruby geography library.
+
+**[fruitbot][fruitbot-pull]**
+: Add repeatable, numbered board layouts to Scribd's [Fruitbot](http://fruitbots.org) game development framework (Javascript).
 
 **[autolink.vim][]**
 : Replaced the defunct Blekko API with DuckDuckGo.
@@ -88,3 +94,5 @@ Since [DOS 2.11][] I've always been working on something. Side projects are fun 
 [autolink.vim]: https://github.com/sampsyo/autolink.vim/pull/2
 [Critigram]: http://kalafut.github.io/critigram/
 [gb]: https://github.com/constabulary/gb/pull/449
+[fruitbot-pull]: https://github.com/scribd/robot-fruit-hunt/pull/10
+[fruitbot]: https://github.com/kalafut/fruitbot

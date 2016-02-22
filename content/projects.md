@@ -50,6 +50,10 @@ Since [DOS 2.11][] I've always been working on something. Side projects are fun 
 **[Fruitbot][]**
 : My submission to Scribd's [Fruitbot](http://fruitbots.org/) programming challenge, written in Javascript. I used Minimax with alpha-beta pruning like hundreds of others, but some "secret sauce" during move generation has kept me in the [top 15](http://fruitbots.herokuapp.com/bots).
 
+**<a href="/cheapset.png" data-lightbox="cheapset" data-title="Cheapset">Cheapset</a>**
+: Ancient history from deep in the archives! I wrote this in the early 90's as a way to set a PC clock using a ham radio. It was my first program to
+enjoy wide use, courtesy of BBS's. The 10k ".COM" file runs fine in DOSBox.
+
 
 <hr>
 ## Contributions

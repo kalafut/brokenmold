@@ -44,8 +44,8 @@ Since [DOS 2.11][] I've always been working on something. Side projects are fun 
 **[Critigram][]**
 : Display your [Criticker](http://criticker.com) ratings histogramically. Also, a test project for Coffeescript and Google Charts.
 
-**FreeLadder**
-: PHP/MySQL web app to run the company's table tennis ladder. Nice responsive design and plenty of stats tracking included.
+**<a href="/freeladder1_censored.jpg" data-lightbox="freeladder" data-title="Standing and challenges">FreeLadder</a>** <a href="/freeladder2_censored.jpg" data-lightbox="freeladder" data-title="Records and stats"></a>
+: PHP/MySQL/JS web app to run the company's table tennis ladder. Responsive design and plenty of stats tracking included.
 
 **[Fruitbot][]**
 : My submission to Scribd's [Fruitbot](http://fruitbots.org/) programming challenge, written in Javascript. I used Minimax with alpha-beta pruning like hundreds of others, but some "secret sauce" during move generation has kept me in the [top 15](http://fruitbots.herokuapp.com/bots).

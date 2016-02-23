@@ -36,7 +36,7 @@ Since [DOS 2.11][] I've always been working on something. Side projects are fun 
 : Sort of a bookmarking site, this was my first non-trivial **Go** program. It has been running for a couple of years with light usage (including by me at least once a week).
 
 **[Crutches]**
-: My version of a cheatsheets framework before I new [Dash](https://kapeli.com/dash) existed. The idea was that people would contribute YAML-formatted
+: My version of a cheatsheets framework before I knew [Dash](https://kapeli.com/dash) existed. The idea was that people would contribute YAML-formatted
 documentation to a shared Github repo. Shut down when I found Dash did most of what I wanted and more.
 
 **<a href="/phonetics.png" data-lightbox="image-1" data-title="Phonetics">Phonetics</a>**

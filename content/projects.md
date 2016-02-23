@@ -32,14 +32,12 @@ Since [DOS 2.11][] I've always been working on something. Side projects are fun 
 **[imohash][]**
 : A constant-time hashing algorithm in **Go**. This was surprisingly popular on Github (over 65 stars).
 
-**[vim-taskjuggler][]**
-: Repackaged [TaskJuggler](http://www.taskjuggler.org/) syntax highlighting for easier installation by [Vundle](https://github.com/VundleVim/Vundle.vim) and the like.
-
 **[WordyLinks][]**
 : Sort of a bookmarking site, this was my first non-trivial **Go** program. It has been running for a couple of years with light usage (including by me at least once a week).
 
-**fdoc**
-: Android app for easily browsing [Fossil](http://fossil-scm.org) documentation, back when I was [evaluating that SCM tool]({{< relref "2015-01-29-fossil-1.md" >}}).
+**[Crutches]**
+: My version of a cheatsheets framework before I new [Dash](https://kapeli.com/dash) existed. The idea was that people would contribute YAML-formatted
+documentation to a shared Github repo. Shut down when I found Dash did most of what I wanted and more.
 
 **<a href="/phonetics.png" data-lightbox="image-1" data-title="Phonetics">Phonetics</a>**
 : Simple phonetics app for Android. Type a letter then see and hear (in mine or my wife's voice!) the corresponding NATO phonetic.
@@ -56,6 +54,12 @@ Since [DOS 2.11][] I've always been working on something. Side projects are fun 
 **<a href="/benbino1.png" data-lightbox="benbino" data-title="B1">BenBino</a>** <a href="/benbino2.png" data-lightbox="benbino" data-title="Records and stats"><a href="/benbino3.png" data-lightbox="benbino" data-title="Records and stats"></a>
 </a>
 : Django/jQuery Mobile app to track feeding, diapers, etc. after <a href="http://blog.kalafut.net/2012/01/taking-leave/">our son Ben was born</a> in 2011.
+
+**[vim-taskjuggler][]**
+: Repackaged [TaskJuggler](http://www.taskjuggler.org/) syntax highlighting for easier installation by [Vundle](https://github.com/VundleVim/Vundle.vim) and the like.
+
+**fdoc**
+: Android app for easily browsing [Fossil](http://fossil-scm.org) documentation, back when I was [evaluating that SCM tool]({{< relref "2015-01-29-fossil-1.md" >}}).
 
 **<a href="/cheapset.png" data-lightbox="cheapset" data-title="Cheapset">Cheapset</a>**
 : Ancient history from deep in the archives! I wrote this in the early 90's as a way to set a PC clock using a ham radio. It was my first program to
@@ -108,3 +112,4 @@ enjoy wide use, courtesy of BBS's. The 10k ".COM" file runs fine in DOSBox.
 [fruitbot-pull]: https://github.com/scribd/robot-fruit-hunt/pull/10
 [fruitbot]: https://github.com/kalafut/fruitbot
 [MemoLock]: http://61moons.kalafut.net
+[Crutches]: https://github.com/kalafut/crutches

@@ -26,8 +26,11 @@ Since [DOS 2.11][] I've always been working on something. Side projects are fun 
 <hr>
 ## Completed
 
+**[MemoLock][]**
+: MemoLock was a successful BlackBerry encryption App that I wrote and sold, and this was the companion website. I retired the app and site in 2011 after deciding that selling encryption and being involved with sensitive data was a poor choice for a part-time side business.
+
 **[imohash][]**
-: A constant-time hashing algorithm in **Go** and one of my better documented projects. This was surprisingly popular on Github.
+: A constant-time hashing algorithm in **Go**. This was surprisingly popular on Github (over 65 stars).
 
 **[vim-taskjuggler][]**
 : Repackaged [TaskJuggler](http://www.taskjuggler.org/) syntax highlighting for easier installation by [Vundle](https://github.com/VundleVim/Vundle.vim) and the like.
@@ -77,7 +80,7 @@ enjoy wide use, courtesy of BBS's. The 10k ".COM" file runs fine in DOSBox.
 : Added functionality to exclude states/countries from this Ruby geography library.
 
 **[fruitbot][fruitbot-pull]**
-: Add repeatable, numbered board layouts to Scribd's [Fruitbot](http://fruitbots.org) game development framework (Javascript).
+: Added repeatable, numbered board layouts to Scribd's [Fruitbot](http://fruitbots.org) game development framework (Javascript).
 
 **[autolink.vim][]**
 : Replaced the defunct Blekko API with DuckDuckGo.
@@ -104,3 +107,4 @@ enjoy wide use, courtesy of BBS's. The 10k ".COM" file runs fine in DOSBox.
 [gb]: https://github.com/constabulary/gb/pull/449
 [fruitbot-pull]: https://github.com/scribd/robot-fruit-hunt/pull/10
 [fruitbot]: https://github.com/kalafut/fruitbot
+[MemoLock]: http://61moons.kalafut.net

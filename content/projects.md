@@ -6,22 +6,29 @@ title: "Projects"
 
 Since [DOS 2.11][] I've always been working on something. Side projects are fun and my way to try out a lot of technologies. Lately I seem to be writing a lot of **Go** and **Javascript**. My `~/dev` folder has hundreds of children. Sometimes the work exists elsewhere, such as some small contribution to a project on Github that I'll probably forget about. (And Github is surprisingly unhelpful at helping you track older contributions.) But I'd like to not forget about these endeavors, hence this page.
 
-## Active
-**choppy**
-: (*Planned*) Chess opening trainer as an intro project to learn [Elm](http://elm-lang.org) and/or [GopherJS](http://www.gopherjs.org/). It will be transpilerific.
-
+## Sites
 **[kalafut.net][]**
 : This site is of course a constant work-in-progress. It has evolved from a heavy Wordpress installation to a static site. Various blogging platforms, themes and hosting setups have been tried. Oh yeah, and there's the writing... :)
 
+**[urbooks.org][]**
+: Some years ago my wife wanted to learn Javascript and try to building a reading log web application. She did it! It's still up and getting used by
+over 1000 people. I'm just the server admin...
+
+<hr>
+
+## In Progress
 **[clerk][]**
 : I've used a lot of personal finance tools over the years and they've all helped and annoyed me. Clerk is my attempt to do better.
 
 **[finiki][]**
 : A Wiki. I've always liked wikis and their personal wikis are very helpful. But none of them are *quite* right, so I'm starting my own.
 
-
 **fff**
 : Fast File Finder. For now this is just a Go CLI to do the most common things I do with `find`, but without all the flags and arguments. As ag is to grep, fff is to find.
+
+**choppy**
+: (*Planned*) Chess opening trainer as an intro project to learn [Elm](http://elm-lang.org) and/or [GopherJS](http://www.gopherjs.org/). It will be transpilerific.
+
 
 <hr>
 ## Completed
@@ -96,6 +103,7 @@ enjoy wide use, courtesy of BBS's. The 10k ".COM" file runs fine in DOSBox.
 
 [DOS 2.11]: https://en.wikipedia.org/wiki/DOS
 [kalafut.net]: https://kalafut.net
+[urbooks.org]: http://urbooks.org
 [finiki]: https://github.com/kalafut/finiki
 [clerk]: https://github.com/kalafut/clerk
 [imohash]: https://github.com/kalafut/imohash

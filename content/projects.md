@@ -11,7 +11,7 @@ Since [DOS 2.11][] I've always been working on something. Side projects are fun 
 : This site is of course a constant work-in-progress. It has evolved from a heavy Wordpress installation to a static site. Various blogging platforms, themes and hosting setups have been tried. Oh yeah, and there's the writing... :)
 
 **[urbooks.org][]**
-: Some years ago my wife wanted to learn Javascript and try to building a reading log web application. She did it! It's still up and getting used by
+: Some years ago my wife wanted to learn Javascript and try building a reading log web application. She did it! It's still up and getting used by
 over 1000 people. I'm just the server admin...
 
 <hr>

@@ -30,7 +30,7 @@ theme = "hyde-y"
   highlight = "default"
 
 # Google Analytics.
-  googleAnalytics = "Your Google Analytics tracking code"
+  googleAnalytics = "UA-1441459-11"
 
 # Sidebar social links.
   github = "kalafut" # Your Github profile ID

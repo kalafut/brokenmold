@@ -4,8 +4,8 @@ draft: false
 title: "Blogs"
 ---
 
-Blogs are great thing to write, regardless of whether anyone reads them. They're the only diary I've ever even
-semi-regularly kept. I've always hosted my own blogs and feel strongly that entrusting your biography
+Blogs are great things to write, regardless of whether anyone reads them. They're the only diary I've ever even
+semi-regularly kept. I've always hosted my own blogs and feel strongly that entrusting your autobiography
 only to Twitter and/or Facebook is a risky idea.
 
 A number of blogs have accumulated over the years. They're usually associated with some phase of my (our)

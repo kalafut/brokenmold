@@ -75,6 +75,9 @@ enjoy wide use, courtesy of BBS's. The 10k ".COM" file runs fine in DOSBox.
 
 <hr>
 ## Contributions
+**[seamless-immutable][]**
+: Allow numeric keys to be use with `without()`.
+
 **[gb][]**
 : Show vendor plugin help when no command is given.
 
@@ -121,3 +124,4 @@ enjoy wide use, courtesy of BBS's. The 10k ".COM" file runs fine in DOSBox.
 [fruitbot]: https://github.com/kalafut/fruitbot
 [MemoLock]: http://61moons.kalafut.net
 [Crutches]: https://github.com/kalafut/crutches
+[seamless-immutable]: https://github.com/rtfeldman/seamless-immutable/pull/132

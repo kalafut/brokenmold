@@ -32,7 +32,8 @@ wget --mirror --convert-links --adjust-extension --page-requisites --no-parent -
 There was a tiny bit of prep, mainly to make sure everything lived under the proper subdomain, but
 that was about it. After `wget` was done, I was left with a folder of .html files that faithfully
 represented the look and content of the site. Magic! I'm truly impressed at how well links were
-converted, even things like show/hide comment sections that I thought might trip it up.
+converted. Even things like shown/hidden comment sections that I thought might trip it up came
+through just fine.
 
 With files in hand, it was straightforward to upload everything S3 and change over the DNS. Now the
 sites are fast, secure, and not on my server.

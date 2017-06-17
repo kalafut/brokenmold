@@ -128,4 +128,4 @@ enjoy wide use, courtesy of BBS's. The 10k ".COM" file runs fine in DOSBox.
 [MemoLock]: http://61moons.kalafut.net
 [Crutches]: https://github.com/kalafut/crutches
 [seamless-immutable]: https://github.com/rtfeldman/seamless-immutable/pull/132
-[icsv2ledger]: https://github.com/quentinsf/icsv2ledger
+[icsv2ledger]: https://github.com/quentinsf/icsv2ledger/issues/92

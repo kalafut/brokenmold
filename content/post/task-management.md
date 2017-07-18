@@ -46,5 +46,3 @@ It is tempting to try to shoehorn as much as possible into the one tool to rule 
 ## Recommendations
 
 Give apps a decent try, with enough time to see how well they fit into your workflow. I'm always amused at the tech bloggers who write reviews after a couple days of use. These are the same people often guilty of churning through gobs of apps, singing all their praises along the way. Of course you should reject obviously bad apps right away, but in most cases I need to really use a tool for at least a month to get past initial impressions and infatuation to really judge it.
-
-**What do I use?**  Stay tuned.

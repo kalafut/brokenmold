@@ -4,13 +4,11 @@ draft: false
 title: "Kit"
 ---
 
-- 13" MacBook Pro w/OS X El Capitan
+- 2014 13" MacBook Pro w/macOS Sierra
 - Fastmail (email & calendar)
 - iPhone 6s
 - Vim (well plugged-in)
-- [Arq](https://www.arqbackup.com/) backup to:
-    - Synology NAS
-    - Google Nearline
+- Backblaze
 - Digital Ocean VPS's running Ubuntu, maintained with Ansible and Fabric.
 - Self-managed sites using:
     - [Hugo](https://gohugo.io/) published to S3

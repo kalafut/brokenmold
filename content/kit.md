@@ -1,12 +1,13 @@
 ---
-date: "2016-01-21"
+date: "2017-08-08"
 draft: false
 title: "Kit"
 ---
 
 - 2014 13" MacBook Pro w/macOS Sierra
-- Fastmail (email & calendar)
 - iPhone 6s
+- Fastmail (email & calendar)
+- [2Do](https://www.2doapp.com)
 - Vim (well plugged-in)
 - Backblaze
 - Digital Ocean VPS's running Ubuntu, maintained with Ansible and Fabric.

@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "Why Jekyll?"
 date: 2015-01-22
 comments: false

@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "Train Big. Snow Fluffy."
 date: 2015-02-07
 ---

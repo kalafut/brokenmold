@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "Disabling some zsh helpers"
 date: 2014-01-02T19:50:01-08:00
 comments: false

@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "Public speaking"
 date: 2015-02-23
 categories: [ links]

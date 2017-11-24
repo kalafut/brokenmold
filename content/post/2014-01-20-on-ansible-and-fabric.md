@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "On Ansible and Fabric"
 date: 2014-01-20
 comments: false

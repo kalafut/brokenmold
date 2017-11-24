@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title:  "Hello Jekyll"
 date:   2015-01-12
 categories: []

@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "Chromecast and IGMP"
 date: 2014-05-16T23:01:54-07:00
 comments: false

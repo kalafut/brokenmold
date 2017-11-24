@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "Introducing Telix"
 date: 2014-01-11T13:22:41-08:00
 comments: false

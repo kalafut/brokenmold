@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "Hello Königspress"
 date: 2014-10-09T22:19:55-07:00
 comments: false

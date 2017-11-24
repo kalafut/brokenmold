@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title:  "And Suddenly My Best Phone Is Junk"
 date:   2015-01-20
 categories: [ ]

@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "An Exceptional First Post"
 date: 2013-12-31T09:01:32-08:00
 comments: false

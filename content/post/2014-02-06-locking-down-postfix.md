@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "Locking down Postfix"
 date: 2014-02-06T20:07:36-08:00
 comments: false

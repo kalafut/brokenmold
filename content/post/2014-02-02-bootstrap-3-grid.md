@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "Bootstrap 3 Grid"
 date: 2014-02-02T19:12:49-08:00
 comments: false

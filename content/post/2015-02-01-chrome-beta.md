@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "Have a Nexus 7? Get the Chrome Beta"
 date: 2015-02-01
 ---

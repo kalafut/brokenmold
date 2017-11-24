@@ -17,10 +17,10 @@ over 1000 people. I'm just the server admin...
 <hr>
 
 ## In Progress
-**[clerk][]**
+**clerk**
 : I've used a lot of personal finance tools over the years and they've all helped and annoyed me. Clerk is my attempt to do better.
 
-**[finiki][]**
+**finiki**
 : A Wiki. I've always liked wikis and their personal wikis are very helpful. But none of them are *quite* right, so I'm starting my own.
 
 **fff**
@@ -33,14 +33,15 @@ over 1000 people. I'm just the server admin...
 <hr>
 ## Completed
 
+**[imohash][]**
+: A constant-time hashing algorithm in **Go** (and subsequently **[Python](https://github.com/kalafut/py-imohash)**). This was surprisingly popular on Github.
+
 **[MemoLock][]**
 : MemoLock was a successful BlackBerry encryption App that I wrote and sold, and this was the companion website. I retired the app and site in 2011 after deciding that selling encryption and being involved with sensitive data was a poor choice for a part-time side business.
 
-**[imohash][]**
-: A constant-time hashing algorithm in **Go**. This was surprisingly popular on Github (over 65 stars).
 
-**[WordyLinks][]**
-: Sort of a bookmarking site, this was my first non-trivial **Go** program. It has been running for a couple of years with light usage (including by me at least once a week).
+**WordyLinks (retired)**
+: Sort of a bookmarking site, this was my first non-trivial **Go** program. It ran for a couple of years with light usage (including by me at least once a week).
 
 **[Crutches]**
 : My version of a cheatsheets framework before I knew [Dash](https://kapeli.com/dash) existed. The idea was that people would contribute YAML-formatted

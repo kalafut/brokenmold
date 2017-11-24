@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "Passing slices to variadic functions"
 date: 2015-01-18
 categories: [ golang]

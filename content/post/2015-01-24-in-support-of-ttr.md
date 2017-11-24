@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "RSS? You should probably try TTR"
 date: 2015-01-24
 categories: []

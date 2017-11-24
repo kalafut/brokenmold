@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: ".viminfo permissions"
 date: 2014-02-08T15:48:36-08:00
 comments: false

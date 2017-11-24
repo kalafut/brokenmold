@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "tmux + iterm2"
 date: 2014-01-07T21:34:40-08:00
 comments: false

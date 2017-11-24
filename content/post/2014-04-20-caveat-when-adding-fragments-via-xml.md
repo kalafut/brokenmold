@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "Caveat when adding fragments via XML"
 date: 2014-04-20T14:07:44-07:00
 comments: false

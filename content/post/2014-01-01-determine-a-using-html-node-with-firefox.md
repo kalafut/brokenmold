@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "Determine a unique selector with Firefox"
 date: 2014-01-01T10:09:26-08:00
 comments: false

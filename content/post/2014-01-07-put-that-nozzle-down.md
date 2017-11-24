@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "Put That Nozzle Down"
 date: 2014-01-07T20:10:39-08:00
 comments: false

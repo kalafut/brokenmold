@@ -1,5 +1,5 @@
 ---
-layout: post
+type: post
 title: "Don't let Emulators Kill Your Battery"
 date: 2014-04-18T08:32:46-07:00
 comments: false

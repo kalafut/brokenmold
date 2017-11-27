@@ -8,6 +8,7 @@ type = "post"
 I'm very happy to have just ticked off a really old to-do. I converted three old WordPress blogs to static
 sites:
 
+- [Oregon Life](http://blog.kalafut.net) (2010--2015)  (*moved 11/24/2017*)
 - [NZ Life](http://nz.kalafut.net) (2005--2007)
 - [Peoria Dispatch](http://pd.kalafut.net) (2008--2010)
 - [Peoria Dispatch (Garden)](http://pdg.kalafut.net) (2009--2010)

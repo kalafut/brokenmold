@@ -6,7 +6,7 @@ type = "post"
 +++
 
 
-One thing I've learned from 20+ years of using different task management approaches is to keep expectations in check. It is unlikely that any system or software is going to bring meaningful change to core problems of disorganization, lack of motivation, or just plain laziness. But that shouldn't discourage one from trying different tools as part of the quest to get organized, get more done, or just get some peace of mind. Something is probably better than nothing.
+One thing I've learned from many years of using different task management approaches is to keep expectations in check. It is unlikely that any system or software is going to bring meaningful change to core problems of disorganization, lack of motivation, or just plain laziness. But that shouldn't discourage one from trying different tools as part of the quest to get organized, get more done, or just get some peace of mind. Something is probably better than nothing.
 
 Reviews of individual tools--and I've used plenty--are boring and have a short shelf life because these things change, die, and are supplanted regularly. Let's instead look at some broad categories.
 

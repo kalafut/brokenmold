@@ -17,7 +17,7 @@ life, and I like the idea of putting them in read-only/archive mode when appropr
 
 <br>
 **[Oregon Life](http://blog.kalafut.net)**
-: Our current, occasionally-updated family blog (2010--).
+: Our retired family blog (2010--2015).
 
 <br>
 **[Peoria Dispatch](http://pd.kalafut.net)***

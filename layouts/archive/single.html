@@ -1,0 +1,41 @@
+{{ partial "header.html" . }}
+<div class="content container">
+	<h1>Blog archives</h1>
+
+		{{ with .Site.GetPage "section" "post" }}
+{{ range .Data.Pages.GroupByDate "2006-01" }}
+Archives Title and {{ .Key }} markup here
+{{ range .Pages }}
+
+	<section class="archive">
+		<h2>{ .Key }</h2>
+
+		<ul>
+		    {{ range .Pages }}
+			<li><time>{{ .Date.Format "Jan 2" }}</time>
+
+				<br><a href="{{ .Permalink }}" class="permalink">{{ .Title }}</a>
+
+				{{ if isset .Params "categories" }}
+				<br><span class="post-tags">
+					<span class="prefix">categories:</span> {{ range .Params.categories }}
+						<a href="/categories/{{ . | urlize }}">{{ . }}</a> ·
+					{{ end }}
+				</span>
+				{{ end }}
+				{{ if isset .Params "tags" }}
+				<br><span class="post-tags">
+					<span class="prefix">tags:</span> {{ range .Params.tags }}
+						<a href="/tags/{{ . | urlize }}">{{ . }}</a> ·
+					{{ end }}
+					</span>
+				{{ end }}
+			</li>
+		    {{ end }}
+		</ul>
+	</section>
+	{{ end }}
+	{{ end }}
+	{{ end }}
+</div>
+{{ partial "footer.html" . }}

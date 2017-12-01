@@ -1,9 +1,10 @@
 ---
-type: post
-title: "Disabling some zsh helpers"
-date: 2014-01-02T19:50:01-08:00
+categories:
+- zsh cli
 comments: false
-categories: [ zsh cli]
+date: 2014-01-02T19:50:01-08:00
+title: Disabling some zsh helpers
+type: post
 ---
 
 Two zsh features that are usually helpful but sometimes not: globbing, and autocorrect.

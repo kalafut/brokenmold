@@ -1,9 +1,10 @@
 ---
-type: post
-title: ".viminfo permissions"
-date: 2014-02-08T15:48:36-08:00
+categories:
+- vim
 comments: false
-categories: [ vim]
+date: 2014-02-08T15:48:36-08:00
+title: .viminfo permissions
+type: post
 ---
 
 I wondered why my Vim command history wasn't being preserved between sessions.

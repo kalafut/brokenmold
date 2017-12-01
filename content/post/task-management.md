@@ -1,10 +1,9 @@
-+++
-title = "Task Management Systems"
-date = "2017-07-03T16:08:14-07:00"
-draft = false
-type = "post"
-+++
-
+---
+date: 2017-07-03T16:08:14-07:00
+draft: false
+title: Task Management Systems
+type: post
+---
 
 One thing I've learned from many years of using different task management approaches is to keep expectations in check. It is unlikely that any system or software is going to bring meaningful change to core problems of disorganization, lack of motivation, or just plain laziness. But that shouldn't discourage one from trying different tools as part of the quest to get organized, get more done, or just get some peace of mind. Something is probably better than nothing.
 

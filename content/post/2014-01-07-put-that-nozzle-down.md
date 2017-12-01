@@ -1,9 +1,10 @@
 ---
-type: post
-title: "Put That Nozzle Down"
-date: 2014-01-07T20:10:39-08:00
+categories:
+- Oregon
 comments: false
-categories: [ Oregon ]
+date: 2014-01-07T20:10:39-08:00
+title: Put That Nozzle Down
+type: post
 ---
 
 I've lived in Oregon for almost four years and love it. It's definitely a big improvement

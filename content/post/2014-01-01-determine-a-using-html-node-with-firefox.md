@@ -1,9 +1,10 @@
 ---
-type: post
-title: "Determine a unique selector with Firefox"
-date: 2014-01-01T10:09:26-08:00
+categories:
+- firefox splinter
 comments: false
-categories: [ firefox splinter]
+date: 2014-01-01T10:09:26-08:00
+title: Determine a unique selector with Firefox
+type: post
 ---
 
 I use [splinter](http://splinter.cobrateam.info/) to automate downloading information from banks and

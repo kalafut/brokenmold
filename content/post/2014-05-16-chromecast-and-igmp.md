@@ -1,10 +1,11 @@
 ---
-type: post
-title: "Chromecast and IGMP"
-date: 2014-05-16T23:01:54-07:00
+categories: []
 comments: false
-categories: [ ]
+date: 2014-05-16T23:01:54-07:00
+title: Chromecast and IGMP
+type: post
 ---
+
 I bought a Chromecast shortly after it debut and enjoyed months of great service. Lately I've been
 suffering through months of crappy service, and have spent a lot of time troubleshooting the thing.
 

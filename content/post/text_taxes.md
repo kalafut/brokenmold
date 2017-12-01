@@ -1,9 +1,9 @@
-+++
-date = "2016-03-24T23:48:07-07:00"
-draft = false
-title = "Text-based Taxes"
-type = "post"
-+++
+---
+date: 2016-03-24T23:48:07-07:00
+draft: false
+title: Text-based Taxes
+type: post
+---
 
 It's that time of year again: I start thinking about how inefficient the tax preparation
 process is. And this is not targeted at the IRS (though it deserves it), but rather tax prep

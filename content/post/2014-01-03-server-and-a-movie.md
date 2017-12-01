@@ -1,9 +1,10 @@
 ---
-type: post
-title: "Server and a Movie"
-date: 2014-01-03T21:57:49-08:00
+categories:
+- movies
 comments: false
-categories: [ movies]
+date: 2014-01-03T21:57:49-08:00
+title: Server and a Movie
+type: post
 ---
 
 After a couple hours of fun messing with [ansible](http://www.ansibleworks.com/) and [node](http://nodejs.org/) deployments, I

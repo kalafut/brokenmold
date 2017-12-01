@@ -4,6 +4,7 @@ draft: false
 title: Fossil to git
 type: post
 ---
+
 A while back I [dabbled with Fossil SCM]({{< relref "2015-01-29-fossil-1.md" >}}). I liked parts of it but ended up returning to git. During that experiment,
 I created a fair bit of content in Fossil and wanted to get it out. I assumed this would be easy because I'd
 used the Fossil `export` command previously to create a `git-fast-import`-compatible text file with all of the

@@ -1,9 +1,10 @@
 ---
-type: post
-title: "Introducing Telix"
-date: 2014-01-11T13:22:41-08:00
+categories:
+- Telix
 comments: false
-categories: [ Telix]
+date: 2014-01-11T13:22:41-08:00
+title: Introducing Telix
+type: post
 ---
 
 A few months ago I started a side project. A few days ago I actually got the thing working

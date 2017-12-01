@@ -1,9 +1,10 @@
 ---
-type: post
-title: "RSS? You should probably try TTR"
-date: 2015-01-24
 categories: []
+date: 2015-01-24
+title: RSS? You should probably try TTR
+type: post
 ---
+
 As a long-time consumer of RSS feeds, I was shocked along with many others at
 the fairly sudden termination of Google Reader. Though there wasn't anything
 extraordinarily special about GR for me, it did offer a clean, simple way to browse

@@ -1,9 +1,10 @@
 ---
-type: post
-title: "Caveat when adding fragments via XML"
-date: 2014-04-20T14:07:44-07:00
+categories:
+- android fragments
 comments: false
-categories: [ android fragments]
+date: 2014-04-20T14:07:44-07:00
+title: Caveat when adding fragments via XML
+type: post
 ---
 
 I spent an hour trying to figure our why, after replacing or removing a Fragment, the UI of the

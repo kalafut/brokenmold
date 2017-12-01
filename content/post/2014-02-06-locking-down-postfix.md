@@ -1,9 +1,10 @@
 ---
-type: post
-title: "Locking down Postfix"
-date: 2014-02-06T20:07:36-08:00
+categories:
+- postfix
 comments: false
-categories: [ postfix]
+date: 2014-02-06T20:07:36-08:00
+title: Locking down Postfix
+type: post
 ---
 
 I run [Postfix](http://www.postfix.org/) on my VPS's exclusively to send mail. They're configured to route mail to

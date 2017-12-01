@@ -1,9 +1,9 @@
-+++
-title = "Single-App Django Projects"
-date = "2017-08-06T08:55:08-07:00"
-draft = false
-type = "post"
-+++
+---
+date: 2017-08-06T08:55:08-07:00
+draft: false
+title: Single-App Django Projects
+type: post
+---
 
 I've never benefitted from Django's multi-app architecture and find the hijacking of a precious
 project name pretty annoying. The details and a remedy are described well in

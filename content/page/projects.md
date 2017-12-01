@@ -1,6 +1,6 @@
 ---
-title: Projects
 menu: main
+title: Projects
 weight: 1
 ---
 

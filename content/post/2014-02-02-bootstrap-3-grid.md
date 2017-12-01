@@ -1,9 +1,10 @@
 ---
-type: post
-title: "Bootstrap 3 Grid"
-date: 2014-02-02T19:12:49-08:00
+categories:
+- bootstrap links
 comments: false
-categories: [ bootstrap links]
+date: 2014-02-02T19:12:49-08:00
+title: Bootstrap 3 Grid
+type: post
 ---
 
 If you've used Bootstrap 2.x and need a quick introduction to Bootstrap 3's new

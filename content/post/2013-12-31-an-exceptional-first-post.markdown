@@ -1,11 +1,11 @@
 ---
-type: post
-title: "An Exceptional First Post"
-date: 2013-12-31T09:01:32-08:00
+categories:
+- blogging
 comments: false
-categories: [ blogging]
+date: 2013-12-31T09:01:32-08:00
 published: true
-
+title: An Exceptional First Post
+type: post
 ---
 
 In 2005 [I started a blog](http://nz.kalafut.net/?p=3). I was taken in by the blogger.com platform (though

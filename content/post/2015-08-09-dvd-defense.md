@@ -1,9 +1,9 @@
-+++
-title = "In defense of DVDs"
-date = "2015-08-09"
-draft = false
-type = "post"
-+++
+---
+date: 2015-08-09
+draft: false
+title: In defense of DVDs
+type: post
+---
 
 I've just re-enabled my Netflix DVD service for the umpteenth time. Streaming is usually
 enabled (though it's of dubious usefulness), and whether I'm getting DVDs is a matter of how

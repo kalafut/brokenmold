@@ -1,9 +1,12 @@
 ---
-type: post
-title: "tmux + iterm2"
-date: 2014-01-07T21:34:40-08:00
+categories:
+- tools
+- tmux
+- iterm2
 comments: false
-categories: [ "tools", "tmux", "iterm2" ]
+date: 2014-01-07T21:34:40-08:00
+title: tmux + iterm2
+type: post
 ---
 
 Both [tmux](http://tmux.sourceforge.net/) and [iterm2 ](http://www.iterm2.com/) are great, but the default interaction will have iterm

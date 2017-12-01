@@ -1,6 +1,6 @@
 ---
-title: Blogs
 menu: main
+title: Blogs
 weight: 3
 ---
 

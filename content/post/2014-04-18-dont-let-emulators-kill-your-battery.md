@@ -1,9 +1,10 @@
 ---
-type: post
-title: "Don't let Emulators Kill Your Battery"
-date: 2014-04-18T08:32:46-07:00
+categories:
+- android
 comments: false
-categories: [ android]
+date: 2014-04-18T08:32:46-07:00
+title: Don't let Emulators Kill Your Battery
+type: post
 ---
 
 Few things on my Macbook Pro consume as much power, and make the whole housing heat up, like a running

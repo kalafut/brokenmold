@@ -1,8 +1,9 @@
 ---
-date: "2016-01-24T19:14:57-07:00"
+date: 2016-01-24T19:14:57-07:00
 draft: true
-title: "backups"
+title: backups
 ---
+
 A Harrowing Tale
 
 I just recovered my Lightroom Catalog that is almost 5 months out of date, and I couldn’t be happier.  An hour ago I feared it was gone.  Yes I had the photos, but the catalog contains all of the meta data… the result of an enormous amount of work, and an essential part of a large photo library.

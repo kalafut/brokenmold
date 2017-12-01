@@ -1,9 +1,10 @@
 ---
-type: post
-title: "On Ansible and Fabric"
-date: 2014-01-20
+categories:
+- ansible fabric deployment
 comments: false
-categories: [ ansible fabric deployment]
+date: 2014-01-20
+title: On Ansible and Fabric
+type: post
 ---
 
 It's very easy for me to become paralyzed by the pursuit of a "best practice". In some cases there

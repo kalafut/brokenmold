@@ -1,11 +1,12 @@
 ---
-type: post
-title: "Why Jekyll?"
-date: 2015-01-22
-comments: false
 categories: []
+comments: false
+date: 2015-01-22
 published: true
+title: Why Jekyll?
+type: post
 ---
+
 I was recently asked why I switched from Octopress to Jekyll. I don't have an interesting answer, because there weren't any particularly strong reasons. The overarching goal was that of simplifying. For this blog, the idea of going with stock Jekyll hosted on Github pages is about the simplest way to write and publish a static blog. It certainly isn't the *easiest* way to have a blog, but for me, "simple" includes the idea that the blog content and structure is stored simply and accessibly. There are a million hosted blog sites that could have me writing in seconds with zero administration, but then I'd be uncomfortably tied to their platform.
 
 Jekyll is probably simpler than Octopress, so I went with it. I've read [stronger opinions](https://lauris.github.io/blogging/2014/08/16/jekyll-vs-octopress/) on this matter, 

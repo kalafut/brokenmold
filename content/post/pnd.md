@@ -1,9 +1,9 @@
-+++
-date = "2017-11-26"
-draft = false
-title = "In Defense of Standalone GPS"
-type = "post"
-+++
+---
+date: 2017-11-26
+draft: false
+title: In Defense of Standalone GPS
+type: post
+---
 
 I started working at Garmin shortly after [Google announced](http://googlemobile.blogspot.com/2009/10/announcing-google-maps-navigation-for.html) the introduction of Google Maps on Android with free turn-by-turn directions. The effect on Garmin's stock price was severe. Pundits quickly predicted the death of personal GPS navigation devices (PNDs) as smartphones offered a free, superior solution.  The introduction of these apps did permanently resize and refocus the PND market, but it definitely
 didn’t destroy it. And these devices may still have an important purpose in your vehicle.

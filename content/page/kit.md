@@ -1,6 +1,6 @@
 ---
-title: Kit
 menu: main
+title: Kit
 weight: 2
 ---
 

@@ -1,9 +1,10 @@
 ---
+categories: []
+date: 2015-01-20
+title: And Suddenly My Best Phone Is Junk
 type: post
-title:  "And Suddenly My Best Phone Is Junk"
-date:   2015-01-20
-categories: [ ]
 ---
+
 I bought the Nexus 4 shortly after it came out. I'd been living through a few
 bad years of the [HTC Thunderbolt](http://phandroid.com/2013/04/30/htc-thunderbolt-apology/), which was probably the worst
 phone I've owned. Aside from being a bad phone, Verizon was *extremely*

@@ -1,9 +1,10 @@
 ---
-type: post
-title:  "Hello Jekyll"
-date:   2015-01-12
 categories: []
+date: 2015-01-12
+title: Hello Jekyll
+type: post
 ---
+
 I want to move this thing to Github, so say hello to [Jekyll][jekyll]. I'm not going
 to bother waiting for things to settle into their final form before pushing it, so
 enjoy a bunch of boilerplate Jekyll look, free, and content for a bit. It will at

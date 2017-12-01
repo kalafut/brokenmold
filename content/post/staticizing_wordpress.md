@@ -1,9 +1,9 @@
-+++
-date = "2016-05-21T23:00:00-07:00"
-draft = false
-title = "Staticizing WordPress"
-type = "post"
-+++
+---
+date: 2016-05-21T23:00:00-07:00
+draft: false
+title: Staticizing WordPress
+type: post
+---
 
 I'm very happy to have just ticked off a really old to-do. I converted three old WordPress blogs to static
 sites:

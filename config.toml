@@ -1,55 +1,157 @@
 baseurl = "https://kalafut.net"
-languageCode = "en-us"
 title = "Jim Kalafut"
-pygmentsstyle = "friendly"
+#pygmentsstyle = "friendly"
 
-theme = "hyde-y"
+theme = "minimo"
+#
+#[taxonomies]
+#  tag = "tags"
+#  category = "categories"
+#
+# [params]
+#  logo = "/favicon-310a.jpg"
+#
+## You can use markdown here.
+#  #brand = "Jim Kalafut"
+#  #topline = "Sherwood, Oregon"
+#  #footline = "code with <i class='fa fa-heart'></i>"
+#
+## Sidebar position
+## false, true, "left", "right"
+#  sidebar = "left"
+#
+## Text for the top menu link, which goes the root URL for the site.
+## Default (if omitted) is "Home".
+#  home = "Home"
+#
+## Select a syntax highight.
+## Check the static/css/highlight directory for options.
+#  highlight = "default"
+#
+## Google Analytics.
+#  googleAnalytics = "UA-1441459-11"
+#
+## Sidebar social links.
+#  github = "kalafut" # Your Github profile ID
+#  bitbucket = "" # Your Bitbucket profile ID
+#  linkedin = "kalafut" # Your LinkedIn profile ID (from public URL)
+#  googleplus = "" # Your Google+ profile ID
+#  facebook = "" # Your Facebook profile ID
+#  twitter = "jimkalafut" # Your Twitter profile ID
+#  youtube = ""  # Your Youtube channel ID
+#  flattr = ""  # populate with your flattr uid
+#
+#[blackfriday]
+#  angledQuotes = false
+#  fractions = false
+#  hrefTargetBlank = false
+#  latexDashes = true
+#  plainIdAnchors = true
+#  extensions = []
+#  extensionmask = []
+#
+#[author]
+#  email = "jim@kalafut.net"
+
+#############################################
+
+#baseURL = "http://www.example.com"
+#title = "Minimo"
+## for smart copyright line, leave this blank and check [params.copyright]
+#copyright = ""
+#
+#theme = "minimo"
+
+disqusShortname = ""
+googleAnalytics = ""
+
+Paginate = 5
+preserveTaxonomyNames = true
+
+enableRobotsTXT = true # generate robots.txt
+
+# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
+pygmentsCodefences = true
+
+# Missing translations will default to this content language
+defaultContentLanguage = "en"
+
+[params.info]
+description = "Sherwood, OR"
+title404 = "Nothing's here!"
+
+[params.assets]
+favicon = "favicon.ico"
+customCSS = ["css/custom.css"]
+customJS = ["js/custom.js"]
+gopher = "" # used in 404 template ( Generator: https://gopherize.me )
+
+[params.copyright]
+prefix = ""
+holder = "Jim Kalafut"
+startYear = 2017
+suffix = ""
+
+[params.settings]
+# date & time format: https://golang.org/pkg/time/
+dateFormat = "2006, Jan 02"
+listDateFormat = "2006, Jan 02"
+hideEntryNavigation = ["page"] # boolean / array of sections
+hideSocialMenu = false
+showReadingTime = false
+noTermCloudShuffle = false
+
+[params.opengraph.facebook]
+admins = [] # array of Facebook IDs
+appID = ""
+pageID = ""
+
+[params.opengraph.twitter]
+page = "" # Twitter page username
+
+[params.seo]
+# Title Separator: - – — · • * ⋆ | ~ « » < >
+titleSeparator = "•"
+
+[params.social]
+#codepen = "MunifTanjim"
+email = "jim@kalafut.net"
+#facebook = "MunifTanjim"
+github = "kalafut"
+#instagram = "MunifTanjim"
+linkedin = "kalafut"
+twitter = "JimKalafut"
+
+[params.social.config]
+platforms = ["github","twitter","email","linkedin"]
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
+author = "authors"
+category = "categories"
+tag = "tags"
 
-[params]
-  logo = "/favicon-310a.jpg"
+[permalinks]
+page = "/:slug/"
 
-# You can use markdown here.
-  #brand = "Jim Kalafut"
-  #topline = "Sherwood, Oregon"
-  #footline = "code with <i class='fa fa-heart'></i>"
-
-# Sidebar position
-# false, true, "left", "right"
-  sidebar = "left"
-
-# Text for the top menu link, which goes the root URL for the site.
-# Default (if omitted) is "Home".
-  home = "Home"
-
-# Select a syntax highight.
-# Check the static/css/highlight directory for options.
-  highlight = "default"
-
-# Google Analytics.
-  googleAnalytics = "UA-1441459-11"
-
-# Sidebar social links.
-  github = "kalafut" # Your Github profile ID
-  bitbucket = "" # Your Bitbucket profile ID
-  linkedin = "kalafut" # Your LinkedIn profile ID (from public URL)
-  googleplus = "" # Your Google+ profile ID
-  facebook = "" # Your Facebook profile ID
-  twitter = "jimkalafut" # Your Twitter profile ID
-  youtube = ""  # Your Youtube channel ID
-  flattr = ""  # populate with your flattr uid
+[[menu.main]]
+name = "HOME"
+weight = -10
+identifier = "repository"
+url = "/"
 
 [blackfriday]
-  angledQuotes = false
-  fractions = false
-  hrefTargetBlank = false
-  latexDashes = true
-  plainIdAnchors = true
-  extensions = []
-  extensionmask = []
+hrefTargetBlank = true
+angledQuotes = false
+fractions = false
+latexDashes = true
+plainIdAnchors = true
+extensions = []
+extensionmask = []
 
-[author]
-  email = "jim@kalafut.net"
+[languages]
+# edit this block for your own language
+
+[languages.en]
+lang = "en"
+languageName = "English"
+weight = 1

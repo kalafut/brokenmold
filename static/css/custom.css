@@ -1,0 +1,11 @@
+.prev-entry {
+	float: left;
+}
+
+.next-entry {
+	float: right;
+}
+
+.prev-entry ~ .next-entry::before {
+	content: none;
+}

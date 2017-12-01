@@ -1,7 +1,7 @@
 ---
-date: "2017-08-08"
-draft: false
-title: "Kit"
+title: Kit
+menu: main
+weight: 2
 ---
 
 - 2014 13" MacBook Pro w/macOS Sierra

@@ -1,7 +1,7 @@
 ---
-date: "2015-08-23T19:14:57-07:00"
-draft: false
-title: "Blogs"
+title: Blogs
+menu: main
+weight: 3
 ---
 
 Blogs are great things to write, regardless of whether anyone reads them. They're the only diary I've ever even

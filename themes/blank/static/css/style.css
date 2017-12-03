@@ -419,13 +419,11 @@ header {
 .header-right {
   margin-right: 20px; }
 
-.header-left a {
-  color: #455a64;
-}
+header-left a {
+  color: #455a64; }
 
-.header-right a {
-  color: #455a64;
-}
+a.header-right {
+  color: #455a64; }
 
 .nav-link {
   margin: 10px; }

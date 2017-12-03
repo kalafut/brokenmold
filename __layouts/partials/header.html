@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang='{{ .Site.Language.Lang }}'>
+
+{{ partial "head/head" . }}
+
+<body class='{{ partial "header/bodyClasses" . }}'>
+  <div class='site'>
+
+    <a class='screen-reader' href='#main'>{{ i18n "skipToContent" }}</a>
+
+    <header id='header' class='header-container'>
+      <div class='header site-header'>
+	    <div class='nav-header'>
+	      {{ partial "nav/menus/main" . }}
+		</div>
+		<!--
+        <div class='header-info'>
+          {{ if eq .Kind "home" }}
+          <h4 class='site-title title'>{{ .Site.Title }}</h4>
+          {{ else }}
+		  <p class='site-title title'>{{ .Site.Title }}</p>
+          {{ end }}
+        </div>
+		-->
+      </div>
+    </header>
+

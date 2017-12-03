@@ -2,8 +2,11 @@ baseurl = "https://kalafut.net"
 title = "Jim Kalafut"
 #pygmentsstyle = "friendly"
 
-theme = "minimo"
-#
+#theme = "hugo-kiera"
+#theme = "minimo"
+#theme = "mynimo"
+theme = "blank"
+
 #[taxonomies]
 #  tag = "tags"
 #  category = "categories"
@@ -22,7 +25,7 @@ theme = "minimo"
 #
 ## Text for the top menu link, which goes the root URL for the site.
 ## Default (if omitted) is "Home".
-#  home = "Home"
+# home = "Home2"
 #
 ## Select a syntax highight.
 ## Check the static/css/highlight directory for options.
@@ -65,7 +68,7 @@ theme = "minimo"
 disqusShortname = ""
 googleAnalytics = ""
 
-Paginate = 5
+Paginate = 1000
 preserveTaxonomyNames = true
 
 enableRobotsTXT = true # generate robots.txt
@@ -83,7 +86,7 @@ title404 = "Nothing's here!"
 [params.assets]
 favicon = "favicon.ico"
 customCSS = ["css/custom.css"]
-customJS = ["js/custom.js"]
+#customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
@@ -133,11 +136,6 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[[menu.main]]
-name = "HOME"
-weight = -10
-identifier = "repository"
-url = "/"
 
 [blackfriday]
 hrefTargetBlank = true

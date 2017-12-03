@@ -1,0 +1,18 @@
+<nav id='main-menu' class='main-menu-container' aria-label='{{ i18n "mainMenu" }}'>
+  <div style="float:left;">
+    <a href="/">{{ .Site.Title }}</a>
+  </div>
+
+  <div style="float:right;">
+  <ul class='main-menu'>
+  {{ range .Site.Menus.main }}
+    {{- $isCurrent := ( or ( $.IsMenuCurrent "main" . ) ( $.HasMenuCurrent "main" . ) ) -}}
+    <li>
+      <a {{ if $isCurrent -}} class='current' aria-current='page' {{ end -}} href='{{ .URL }}'>
+        {{- .Name -}}
+      </a>
+    </li>
+  {{ end }}
+  </ul>
+  </div>
+</nav>

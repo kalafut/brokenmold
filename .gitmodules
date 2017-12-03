@@ -1,3 +1,15 @@
 [submodule "themes/minimo"]
 	path = themes/minimo
 	url = https://github.com/MunifTanjim/minimo
+[submodule "themes/hugo-kiera"]
+	path = themes/hugo-kiera
+	url = git@github.com:kalafut/hugo-kiera.git
+[submodule "themes/mynimo"]
+	path = themes/mynimo
+	url = git@github.com:kalafut/mynimo.git
+[submodule "themes/themes/minimo"]
+	path = themes/themes/minimo
+	url = https://github.com/MunifTanjim/minimo
+[submodule "themes/themes/blank"]
+	path = themes/themes/blank
+	url = https://github.com/kalafut/blank

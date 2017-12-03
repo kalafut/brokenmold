@@ -9,3 +9,50 @@
 .prev-entry ~ .next-entry::before {
 	content: none;
 }
+
+.site-header {
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	border-top: 5px solid #424242;
+	border-bottom: 1px solid #e8e8e8;
+	margin-bottom: 1em;
+}
+
+.nav-header {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.main-menu-container {
+/*
+	float: right;
+	margin-top: 1em;
+	padding-right: 20px;
+	*/
+	margin-top: 0.5em;
+}
+
+.main-menu li {
+	text-transform: none;
+	font-size: 1em;
+	line-height: 20px;
+}
+
+.header:after, .site-header:after {
+	border-bottom: none;
+}
+/*
+.header-info {
+	margin-top: 1em;
+	padding-left: 20px;
+}
+
+.header-info .title {
+	text-transform: none;
+	font-size: 1em;
+	line-height: 20px;
+	color: #455a64;
+}
+
+*/

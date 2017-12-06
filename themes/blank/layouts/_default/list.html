@@ -1,6 +1,5 @@
+{{ define "main" }}
 <div class="main-column">
-	{{ partial "header.html" . }}
-
 	{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
 	{{ range $paginator.Pages }}
 	{{ partial "summary.html" . }}
@@ -8,5 +7,5 @@
 	{{ partial "pagination.html" . }}
 
 	{{ partial "sidebar.html" . }}
-	{{ partial "footer.html" . }}
 </div>
+{{ end }}

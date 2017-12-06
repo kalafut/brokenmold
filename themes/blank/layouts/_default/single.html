@@ -1,9 +1,10 @@
+{{ partial "head.html" . }}
 {{ partial "header.html" . }}
 	<main>
 		<article>
 			<h1>{{ .Title }}</h1>
 			<time>{{ .Date.Format "02.01.2006 15:04" }}</time>
-			<div>
+			<div class="content">
 				{{ .Content }}
 			</div>
 			<div>
@@ -18,3 +19,4 @@
 	</main>
 {{ partial "sidebar.html" . }}
 {{ partial "footer.html" . }}
+{{ partial "foot.html" . }}

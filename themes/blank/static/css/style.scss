@@ -25,8 +25,25 @@ $color__border-table: $color__grey;
 
 
 body {
-	font-family: 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'Siyam Rupali', sans-serif;
-	color: #37474f;
+  font-family: 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'Siyam Rupali', sans-serif;
+  color: #37474f;
+  font-size: 18px;
+  line-height: 1.5;
+  word-wrap: break-word;
+
+}
+
+main {
+  //width: 740px;
+  //margin: auto;
+}
+
+.site {
+  max-width: 740px;
+  margin: auto;
+
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 a {
@@ -50,27 +67,48 @@ a {
   }
 }
 
-header {
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: space-between;
+.content a {
+  border-bottom-width: 2px;
+  border-bottom-style: dashed;
+  border-bottom-color: $color__grey;
+  &:hover {
+    border-bottom-color: $color__accent;
+  }
+}
+
+header.outer {
   border-top: 5px solid #424242;
   border-bottom: 1px solid #e8e8e8;
   min-height: 55.95px;
-  align-items: center;
 }
+
+header.inner {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+
+  min-height: 55.95px;
+  max-width: 740px;
+  margin: auto;
+
+//  padding-left: 20px;
+//  padding-right: 20px;
+}
+
 
 .header-left {
   margin-left: 20px;
+  flex-shrink: 1;
 }
 
 .header-right {
   margin-right: 20px;
 }
 
-header-left a {
-  color: $color__link-faded;
-
+.header-left a, .header-right a {
+  color: $color__text-main;
+  font-size: 1.125em;
 }
 
 a.header-right {
@@ -79,4 +117,5 @@ a.header-right {
 
 .nav-link {
   margin: 10px;
-} 
+}
+

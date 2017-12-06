@@ -3,3 +3,5 @@ _site
 hugo/public
 public/*
 themes/hyde-y/node_modules
+themes/blank/static/css/style.css
+themes/blank/static/css/style.css.map

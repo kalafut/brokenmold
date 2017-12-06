@@ -23,6 +23,7 @@ $color__border-input: $color__grey;
 $color__border-input-focus: $color__black;
 $color__border-table: $color__grey;
 
+$header_height: 55.95px;
 
 body {
   font-family: 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'Siyam Rupali', sans-serif;
@@ -33,15 +34,9 @@ body {
 
 }
 
-main {
-  //width: 740px;
-  //margin: auto;
-}
-
-.site {
+.main-column {
   max-width: 740px;
   margin: auto;
-
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -76,10 +71,11 @@ a {
   }
 }
 
+
 header.outer {
   border-top: 5px solid #424242;
   border-bottom: 1px solid #e8e8e8;
-  min-height: 55.95px;
+  min-height: $header_height;
 }
 
 header.inner {
@@ -88,23 +84,9 @@ header.inner {
   justify-content: space-between;
   align-items: center;
 
-  min-height: 55.95px;
-  max-width: 740px;
-  margin: auto;
-
-//  padding-left: 20px;
-//  padding-right: 20px;
+  min-height: $header_height;
 }
 
-
-.header-left {
-  margin-left: 20px;
-  flex-shrink: 1;
-}
-
-.header-right {
-  margin-right: 20px;
-}
 
 .header-left a, .header-right a {
   color: $color__text-main;

@@ -1,12 +1,12 @@
-<div class="site">
+<div class="main-column">
 	{{ partial "header.html" . }}
-		<main>
-			{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-			{{ range $paginator.Pages }}
-				{{ partial "summary.html" . }}
-			{{ end }}
-			{{ partial "pagination.html" . }}
-		</main>
+
+	{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+	{{ range $paginator.Pages }}
+	{{ partial "summary.html" . }}
+	{{ end }}
+	{{ partial "pagination.html" . }}
+
 	{{ partial "sidebar.html" . }}
 	{{ partial "footer.html" . }}
 </div>

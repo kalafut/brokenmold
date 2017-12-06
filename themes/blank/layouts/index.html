@@ -1,14 +1,11 @@
-{{ partial "head.html" . }}
-<div class="site">
-{{ partial "header.html" . }}
-	<main>
-		{{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
-		{{ range $paginator.Pages }}
-			{{ partial "summary.html" . }}
-		{{ end }}
-		{{ partial "pagination.html" . }}
-	</main>
+{{ define "main" }}
+<div class="main-column">
+	{{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
+	{{ range $paginator.Pages }}
+		{{ partial "summary.html" . }}
+	{{ end }}
+	{{ partial "pagination.html" . }}
+</div>
 {{ partial "sidebar.html" . }}
 {{ partial "footer.html" . }}
-</div>
-{{ partial "foot.html" . }}
+{{ end }}

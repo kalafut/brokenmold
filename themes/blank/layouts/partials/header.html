@@ -1,13 +1,15 @@
 <header class="outer">
+<div class="main-column">
 	<header class="inner">
 		<div class="header-left">
 			<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
 		</div>
-		
+
 		<nav class="header-right">
 				{{ range .Site.Menus.main }}
 				<a class="nav-link" href="{{ .URL | relURL }}">{{ .Name }}</a>
 				{{ end }}
 		</nav>
 	</header>
+</div>
 </header>

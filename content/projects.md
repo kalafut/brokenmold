@@ -4,7 +4,7 @@ draft: false
 title: "Projects"
 ---
 
-I'm always working on something. Side projects are fun and my way to try out a lot of technologies. Lately I seem to be writing a lot of **Go** and **Javascript**. My `~/dev` folder has hundreds of children. Sometimes the work exists elsewhere, such as some small contribution to a project on Github that I'll probably forget about. (And Github is surprisingly unhelpful at helping you track older contributions.) But I'd like to not forget about these endeavors, hence this page.
+I'm always working on something. Side projects are fun and my way to try out a lot of technologies. Lately I seem to be writing a lot of **Python**, **Go** and **Javascript**. My `~/dev` folder has hundreds of children. Sometimes the work exists elsewhere, such as some small contribution to a project on Github that I'll probably forget about. (And Github is surprisingly unhelpful at helping you track older contributions.) But I'd like to not forget about these endeavors, hence this page.
 
 ## Sites
 **[kalafut.net][]**
@@ -17,17 +17,15 @@ over 1000 people. I'm just the server admin...
 <hr>
 
 ## In Progress
-**clerk**
-: I've used a lot of personal finance tools over the years and they've all helped and annoyed me. Clerk is my attempt to do better.
-
-**finiki**
-: A Wiki. I've always liked wikis and their personal wikis are very helpful. But none of them are *quite* right, so I'm starting my own.
+**[rivet][]**
+: A wrapper to simplify use of the excellent [Bolt](https://github.com/boltdb/bolt) library.
 
 **fff**
 : Fast File Finder. For now this is just a Go CLI to do the most common things I do with `find`, but without all the flags and arguments. As ag is to grep, fff is to find.
 
-**choppy**
-: (*Planned*) Chess opening trainer as an intro project to learn [Elm](http://elm-lang.org) and/or [GopherJS](http://www.gopherjs.org/). It will be transpilerific.
+**gmw**
+: A variant of "Guess My Word".
+
 
 
 <hr>
@@ -130,3 +128,4 @@ enjoy wide use, courtesy of BBS's. The 10k ".COM" file runs fine in DOSBox.
 [Crutches]: https://github.com/kalafut/crutches
 [seamless-immutable]: https://github.com/rtfeldman/seamless-immutable/pull/132
 [icsv2ledger]: https://github.com/quentinsf/icsv2ledger/issues/92
+[rivet]: https://github.com/kalafut/rivet

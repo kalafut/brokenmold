@@ -104,6 +104,9 @@ enjoy wide use, courtesy of BBS's. The 10k ".COM" file runs fine in DOSBox.
 [**Two Scoops of Django**](http://www.amazon.com/gp/product/0981467342)
 : Contributed to final review of the book.
 
+[**vim-go**](https://github.com/fatih/vim-go/pull/1799)
+: Vim plugin improvements
+
 
 
 [DOS 2.11]: https://en.wikipedia.org/wiki/DOS

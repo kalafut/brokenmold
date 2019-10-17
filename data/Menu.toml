@@ -12,10 +12,10 @@
 #    Title = "Show list of tags"
 #    URL = "/tags"
 
-[a_projects]
-    Name = "Projects"
-    Title = "Show list of tags"
-    URL = "/projects"
+#[a_projects]
+#    Name = "Projects"
+#    Title = "Show list of tags"
+#    URL = "/projects"
 
 [blog]
     Name = "Blogs"

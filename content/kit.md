@@ -7,9 +7,9 @@ title: "Kit"
 - 2014 13" MacBook Pro w/macOS Sierra
 - iPhone 6s
 - [Fastmail](https://fastmail.com) (email & calendar)
-- [2Do](https://www.2doapp.com)
+- [Todoist](https://todoist.com)
 - Vim (well plugged-in)
-- [Backblaze](https://www.backblaze.com)
+- [Arq](https://www.arqbackup.com)
 - Digital Ocean VPS's running Ubuntu, maintained with Ansible and Fabric.
 - Self-managed sites using:
     - [Hugo](https://gohugo.io/) published to S3
